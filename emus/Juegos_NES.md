@@ -36,9 +36,11 @@ Plataformas
 * Donkey Kong
 * Donkey Kong 2
 * Donkey Kong 3
+* Kabuki
 * Kirby's Adventure
 * Little Nemo
 * Lode Runner
+* Marble Madness
 * New Ghostbusters II
 * Rampage
 * Rodland
@@ -57,37 +59,47 @@ Plataformas
 
 Deportes
 ------
+* Blades of Steel
 * California Games
 * Double Dribble
 * Duck Hunt
 * Excite Bike
+* High Speed
+* Hoops
 * Ice Hockey
-* Blades of Steel
-* Track & Field
+* Jimmy Connors' Pro Tennis Tour
 * Lunar Pool
 * Nintendo World Cup
 * Pinball
 * Pinbot
 * Punch-Out
+* Racket Attack
 * Tennis
+* Track & Field
 * Super Spike Volleyball
+* Volleyball
 
 Naves
 ------
+* 1942
 * Galaga
 * Gradius
+* Hunt for the Red October
 * Life Force
 * Choplifter
-* 1942
 * Pop 'n TwinBee
 * Salamander
+* Star Force
+* Tiger Heli
 * Triangle Cobra
+* Xevious
 
 Coches/Motos
 ------
 * Super Spy Hunter
 * Super Off-Road
 * RC Pro-AM
+* Road Blaster
 * Cobra Triangle
 * Excite Bike
 * Mach Rider
@@ -102,6 +114,7 @@ Acción/Lucha
 * Ballou Billy
 * Battletoads & Double Dragon
 * Commando
+* WWF
 
 Estrategia
 ------
