@@ -64,9 +64,9 @@ Juegos Arcade
 | 1975 | TV Tennis Electrotennis         |            |                         |
 | 1976 | The Amazing Maze                |            |                         |
 | 1976 | APF TV Fun                      |            |                         |
-| 1976 | Barricade                       |            |                         |
-| 1976 | Bigfoot Bonkers                 |            |                         |
-| 1976 | Blockade                        |            |                         |
+| 1976 | Barricade                       |            | Snake                   |
+| 1976 | Bigfoot Bonkers                 |            | Snake                   |
+| 1976 | Blockade                        |            | Gremlin, Snake          |
 | 1976 | Breakout                        |            |                         |
 | 1976 | Coleco Telstar series           |            |                         |
 | 1976 | Colossal Cave Adventure         |            |                         |
@@ -75,8 +75,10 @@ Juegos Arcade
 | 1976 | Dukedom                         |            |                         |
 | 1976 | F-1                             |            |                         |
 | 1976 | Fairchild Channel F Videocarts  |            |                         |
+| 1976 | Flyball                         |            | Atari                   |
 | 1976 | Fonz                            |            |                         |
 | 1976 | Heavyweight Champ               |            |                         |
+| 1976 | Hit me                          |            | Ramtek                  |
 | 1976 | Indy 4                          |            |                         |
 | 1976 | LeMans                          |            |                         |
 | 1976 | Mattel Auto Race                |            |                         |
@@ -85,6 +87,7 @@ Juegos Arcade
 | 1976 | Outlaw                          |            |                         |
 | 1976 | Quiz Show                       |            |                         |
 | 1976 | Sea Wolf                        |            |                         |
+| 1976 | Sprint 1                        |            | Atari, Racing           |
 | 1976 | Sprint 2                        |            |                         |
 | 1976 | Stunt Cycle                     |            |                         |
 | 1976 | Tanktics: Computer Game of...   |            |                         |
@@ -100,17 +103,32 @@ Juegos Arcade
 | 1977 | Coleco Telstar Arcade           |            |                         |
 | 1977 | Color TV Game                   |            |                         |
 | 1977 | Combat (Atari 2600)             |            |                         |
-| 1977 | Depth charge                    |            |                         |
-| 1977 | Destroyer                       |            |                         |
+| 1977 | Depth charge                    |            | Gremlin                 |
+| 1977 | Desert Gun                      |            | Midway                  |
+| 1977 | Destroyer                       |            | Atari                   |
 | 1977 | DND                             |            |                         |
-| 1977 | Dominos                         |            |                         |
+| 1977 | Dominos                         |            | Atari                   |
+| 1977 | Double Play                     |            | Midway, Baseball        |
+| 1977 | Drag Race                       |            | Atari                   |
+| 1977 | Embargo                         |            | Cinematronics           |
 | 1977 | Empire                          |            |                         |
+| 1977 | Hustle                          |            | Gremlin                 |
 | 1977 | Indy 500                        |            |                         |
 | 1977 | Interton Video 2000             |            |                         |
-| 1977 | Space Wars                      |            |                         |
+| 1977 | Laguna Racer                    |            | Midway                  |
+| 1977 | M-4                             |            | Midway, Shooter         |
+| 1977 | M-79 Ambush                     |            | Ramtek, Shooter         |
+| 1977 | Meadows Lanes                   |            | Midway, Shooter         |
+| 1977 | Missile X/Guided                |            | Taito/Midway, Shooter   |
+| 1977 | Poolshark                       |            | Atari, Shooter          |
+| 1977 | Robot Bowl                      |            | Exidy, Bowling          |
+| 1977 | Space Wars                      |            | Cinematronics           |
+| 1977 | Star Cruiser                    |            | Ramtek, Shooter         |
 | 1977 | Star Ship                       |            |                         |
 | 1977 | Starship 1                      |            |                         |
 | 1977 | Street Racer                    |            |                         |
+| 1977 | Stub Hunter                     |            | Taito, Shooter Gallery  |
+| 1977 | Subs                            |            | Atari, Shooter Gallery  |
 | 1977 | Super Bug                       |            |                         |
 | 1977 | Surround                        |            |                         |
 | 1977 | Target                          |            |                         |
