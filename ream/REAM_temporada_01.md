@@ -1,8 +1,8 @@
 RetroEntreAmigos: temporada 1
 ======
 
-| Episodio |  Fecha  |    Duración    |             Título             |        Sección 2         |      Sección 3       |       Sección 4       |       Sección 5       |       Sección 6       |       Sección 7       |       Sección 8       |
-|----------|---------|----------------|--------------------------------|--------------------------|----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| Episodio |  Fecha  |    Duración    |             Título             |        Sección 2         |      Sección 3       |       Sección 4       |       Sección 5       |       Sección 6       |       Sección 7       |
+|----------|---------|----------------|--------------------------------|--------------------------|----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 | 01x00    | 2012-05 | 1h 17m 27.863s | Episodio piloto                | Tertulia: juego off-line | Productos con soporte físico o en soporte digital | McLeod           | Recreativos del barrio | Epílogo y música final: Kentila (Commodore 64) | |
 | 01x01    | 2012-06 | 1h 44m 41s     | Primer capítulo                | RetroMadrid 2012         | Atemporalidad del 2D | McLeod                | ¿Edad de oro o edad del cobre? | Juegos actuales, juegos antiguos | ¿Cómo vivisteis la caída de vuestro sistema? |
 | 01x02    | 2012-07 | 1h 16m 27s     | La piratería                   | La piratería             | Blue boxing explicado por Maese              | McLeod                | Canción: Frontier Elite | |
