@@ -5,7 +5,7 @@ RetroEntreAmigos: temporada 1
 |----------|---------|----------------|--------------------------------|--------------------------|----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 | 01x00    | 2012-05 | 1h 17m 27.863s | Episodio piloto                | Tertulia: juego off-line | Productos con soporte físico o en soporte digital | McLeod           | Recreativos del barrio | Epílogo y música final: Kentila (Commodore 64) | |
 | 01x01    | 2012-06 | 1h 44m 41s     | Primer capítulo                | RetroMadrid 2012         | Atemporalidad del 2D | McLeod                | ¿Edad de oro o edad del cobre? | Juegos actuales, juegos antiguos | ¿Cómo vivisteis la caída de vuestro sistema? |
-| 01x02    | 2012-07 | 1h 16m 27s     | La piratería                   | La piratería             | Blue boxing explicado por Maese              | McLeod                | Canción: Frontier Elite | |
+| 01x02    | 2012-07 | 1h 16m 27s     | La piratería                   | La piratería             | Blue boxing explicado por Maese              | McLeod                | Canción: ‘Frontier: Elite II’ | |
 | 01x03    | 2012-08 | 1h 30m 57s     | La burbuja retro               | La burbuja retro         | El desprecintaje     | McLeod                | Melodía misteriosa (Shadow Warrior 3/Ninja Gaiden) | |
 | 01x04    | 2012-09 | 1h 44m 21s     | Retro y paternidad             | Tertulia: Retro y paternidad | Tertulia: la retro-decepción             | Crowdfunding de revista | McLeod Ideafix      | Tertulia de Commodore Amiga y final |
 | 01x05    | 2012-10 | 1h 44m 54s     | Emuladores contra consolas     | Tertulia: Emuladores Vs. Consolas | Consoleros contra micro-usuarios    | McLeod                | Tertulia y final (Juegos contados y decepción) | |
@@ -26,7 +26,7 @@ RetroEntreAmigos 01x00 - Episodio piloto (2012-05, 1h 17m 27.863s)
 03 Tertulia: productos digitales o en formato físico (8m 40.127s -- 23m 43.383s, 15m 3.256s, https://www.ivoox.com/32117068)
 04 McLeod Ideafix (23m 43.383s -- 53m 44.368s, 30m 0.985s, https://www.ivoox.com/32122189)
 05 Tertulia: los recreativos del barrio (53m 44.694s -- 1h 13m 21.168s, 19m 36.474s, https://www.ivoox.com/32122252)
-06 Epílogo y música final: Kentila (1h 13m 21.302s -- 1h 17m 27.863s, 4m 6.561s, https://www.ivoox.com/32122344)
+06 Epílogo y música final: Kentilla (1h 13m 21.302s -- 1h 17m 27.863s, 4m 6.561s, https://www.ivoox.com/32122344)
 
 URL original: https://www.ivoox.com/1201924
 _____________________
@@ -72,8 +72,8 @@ RetroEntreAmigos 01x02 - La piratería (2012-07, 1h 16m 27.403s)
 03 Tertulia: la piratería (7m 6.829s -- 44m 19.282s, 37m 12.453s, https://www.ivoox.com/32403499)
 04 Entrevista: Maese (44m 19.941s -- 57m 5.010s, 12m 45.69s, https://www.ivoox.com/32403599)
 05 McLeod Ideafix: misterios de 8 bits y menos (57m 5.010s -- 1h 11m 14.280s, 14m 9.270s, https://www.ivoox.com/32403611)
-06 Canción final: Elite II Frontier (1h 11m 14.280s -- 1h 16m 27.403s, 5m 13.123s, https://www.ivoox.com/32403625)
-  - Título: Elite II Frontier
+06 Canción final: ‘Frontier: Elite II’ (1h 11m 14.280s -- 1h 16m 27.403s, 5m 13.123s, https://www.ivoox.com/32403625)
+  - Título: ‘Frontier: Elite II’
   - Autor: David Lowe
   - Año: 1993
   - Máquina: Commodore Amiga
