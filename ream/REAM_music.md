@@ -3,6 +3,23 @@ Retro Entre Amigos: Os traigo un juego
 
 Temporada 1
 ------
+Kentila C64
+Shadow of the Best
+Space Quest
+Lotus trilogy
+Lotus I & II by Shaum Southern and Barry Leitch
+Lotus III by Patrick Phelon
+Savage
+Dark Fusion by Ben Daglish (Aufidersen Monty)
+HeroQuest by Barry Leitch
+TwinBee by Konami ()
+Yo! Joe! Beat the Ghosts! (Michael Biales)
+Elite II: Frontier
+Knightmare (MSX) (Miki Higashiro)
+Rampart (Spectrum) by GO! (Jos C. Brooke)
+Jim Power in Mutant Power by Chris Hülsbeck
+The Last Ninja by Ben Daglish (C64)
+Ocean Loaders (Peter Clarke, Jonathan Dunn, Martin Galway)
 
 
 Temporada 2
