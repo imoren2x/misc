@@ -8,7 +8,7 @@ Temporada 1
 |  N |   Mes   |          Título                 |  Autor       |   Plataforma    |  Año  | Vídeo         | Notas                  |
 |----|---------|---------------------------------|--------------|-----------------|-------|---------------|------------------------|
 |  1 | 2012-05 (01x00) | Kentilla Main Theme             | Rob Hubbard  | Commodore 64    | 1984  |               |                        |
-|  2 | 2012-05 | Shadow of the Best              |   |     |   |               |                        |
+|  2 | 2012-05 | Shadow of the Beast              |   |     |   |               |                        |
 |  3 | 2012-05 | Space Quest                     |   |     |   |               |                        |
 |  4 | 2012-05 | Lotus trilogy                   |   |     |   |               |                        |
 |  5 | 2012-05 | Lotus I                         | Shaum Southern  |     |   |               |                        |
