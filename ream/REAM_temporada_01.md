@@ -21,12 +21,18 @@ RetroEntreAmigos: temporada 1
 RetroEntreAmigos 01x00 - Episodio piloto (2012-05, 1h 17m 27.863s)
 ======
 
-01 Intro, música y presentaciones (00h 00m 00.000s -- 4m 43.818s, https://www.ivoox.com/32102503)
-02 Tertulia: viva el juego off-line; anuncios, Zelda 2 y comecocos (4m 43.818s -- 8m 40.243s, 3m 56.425s, https://www.ivoox.com/32102744)
-03 Tertulia: productos digitales o en formato físico (8m 40.127s -- 23m 43.383s, 15m 3.256s, https://www.ivoox.com/32117068)
-04 McLeod Ideafix (23m 43.383s -- 53m 44.368s, 30m 0.985s, https://www.ivoox.com/32122189)
-05 Tertulia: los recreativos del barrio (53m 44.694s -- 1h 13m 21.168s, 19m 36.474s, https://www.ivoox.com/32122252)
-06 Epílogo y música final: Kentilla (1h 13m 21.302s -- 1h 17m 27.863s, 4m 6.561s, https://www.ivoox.com/32122344)
+1. Intro, música y presentaciones (00h 00m 00.000s -- 4m 43.818s, https://www.ivoox.com/32102503)
+2. Tertulia: viva el juego off-line; anuncios, Zelda 2 y comecocos (4m 43.818s -- 8m 40.243s, 3m 56.425s, https://www.ivoox.com/32102744)
+3. Tertulia: productos digitales o en formato físico (8m 40.127s -- 23m 43.383s, 15m 3.256s, https://www.ivoox.com/32117068)
+4. McLeod Ideafix (23m 43.383s -- 53m 44.368s, 30m 0.985s, https://www.ivoox.com/32122189)
+5. Tertulia: los recreativos del barrio (53m 44.694s -- 1h 13m 21.168s, 19m 36.474s, https://www.ivoox.com/32122252)
+6. Epílogo y música final: (1h 13m 21.302s -- 1h 17m 27.863s, 4m 6.561s, https://www.ivoox.com/32122344)Música final:
+  – Título: Kentilla Main Theme
+  – Autor: Rob Hubbard
+  – Plataforma: Commodore 64
+  – Año: 1984
+  – YouTube Vídeo 1: https://www.youtube.com/watch?v=_IwzkcRh5dE (vista osciloscopio de los tres canales de audio) [![YouTube Video 1](http://img.youtube.com/vi/_IwzkcRh5dE/0.jpg)](http://www.youtube.com/watch?v=_IwzkcRh5dE)
+  – YouTube Vídeo 2: https://www.youtube.com/watch?v=SX0gIf1Hg4E [![YouTube Video 2](http://img.youtube.com/vi/SX0gIf1Hg4E/0.jpg)](http://www.youtube.com/watch?v=SX0gIf1Hg4E)
 
 URL original: https://www.ivoox.com/1201924
 _____________________
@@ -36,15 +42,14 @@ Podcast sin periodicidad definida (de momento) en el que tratamos en formato de 
 
 RetroEntreAmigos 01x01 - Primer capítulo (2012-06, 1h 44m 41.611s)
 ======
-
-01 Intro, música y presentaciones (00h 00m 00.000s -- 6m 53.039s, https://www.ivoox.com/32155401)
-02 RetroMadrid 2012; anuncios (6m 53.039s -- 13m 46.964s, 6m 53.925s, https://www.ivoox.com/32156749)
-03 Tertulia: atemporalidad de los juegos 2D (13m 47.036s -- 32m 25.978s, 18m 38.942s, https://www.ivoox.com/32157134)
-04 Misterios de ocho bits y menos; anuncios (32m 25.978s -- 47m 15.174s, 14m 49.196s, https://www.ivoox.com/32157254)
-05 Tertulia: ¿la Edad de Oro del software español o la edad del cobre? (47m 15.174s -- 1h 2m 42.119s, 15m 26.945s, https://www.ivoox.com/32157286)
-06 Tertulia: ¿Son los juegos actuales mejores que los antiguos? (1h 2m 42.119s -- 1h 15m 45.956s, 13m 3.837s, https://www.ivoox.com/32157378)
-07 Concurso B-Move (1h 15m 46.072s -- 1h 18m 18.429s, 2m 32.357s, https://www.ivoox.com/32157442)
-08 Tertulia final: ¿cómo vivisteis la caída de vuestro sistema? (1h 18m 18.429s -- 1h 44m 41.611s, 26m 23.182s, https://www.ivoox.com/32157587)
+1. Intro, música y presentaciones (00h 00m 00.000s -- 6m 53.039s, https://www.ivoox.com/32155401)
+2. RetroMadrid 2012; anuncios (6m 53.039s -- 13m 46.964s, 6m 53.925s, https://www.ivoox.com/32156749)
+3. Tertulia: atemporalidad de los juegos 2D (13m 47.036s -- 32m 25.978s, 18m 38.942s, https://www.ivoox.com/32157134)
+4. Misterios de ocho bits y menos; anuncios (32m 25.978s -- 47m 15.174s, 14m 49.196s, https://www.ivoox.com/32157254)
+5. Tertulia: ¿la Edad de Oro del software español o la edad del cobre? (47m 15.174s -- 1h 2m 42.119s, 15m 26.945s, https://www.ivoox.com/32157286)
+6. Tertulia: ¿Son los juegos actuales mejores que los antiguos? (1h 2m 42.119s -- 1h 15m 45.956s, 13m 3.837s, https://www.ivoox.com/32157378)
+7. Concurso B-Move (1h 15m 46.072s -- 1h 18m 18.429s, 2m 32.357s, https://www.ivoox.com/32157442)
+8. Tertulia final: ¿cómo vivisteis la caída de vuestro sistema? (1h 18m 18.429s -- 1h 44m 41.611s, 26m 23.182s, https://www.ivoox.com/32157587)
 
 URL original: https://www.ivoox.com/1262462
 _____________________
@@ -66,13 +71,12 @@ Ckultur.
 
 RetroEntreAmigos 01x02 - La piratería (2012-07, 1h 16m 27.403s)
 ======
-
-01 Intro, música y presentaciones (00h 00m 00.000s -- 3m 53.708s, https://www.ivoox.com/32403456)
-02 Concurso B-MOVE (3m 53.708s -- 7m 6.829s, 3m 13.121s, https://www.ivoox.com/32403469)
-03 Tertulia: la piratería (7m 6.829s -- 44m 19.282s, 37m 12.453s, https://www.ivoox.com/32403499)
-04 Entrevista: Maese (44m 19.941s -- 57m 5.010s, 12m 45.69s, https://www.ivoox.com/32403599)
-05 McLeod Ideafix: misterios de 8 bits y menos (57m 5.010s -- 1h 11m 14.280s, 14m 9.270s, https://www.ivoox.com/32403611)
-06 Canción final: ‘Frontier: Elite II’ (1h 11m 14.280s -- 1h 16m 27.403s, 5m 13.123s, https://www.ivoox.com/32403625)
+1. Intro, música y presentaciones (00h 00m 00.000s -- 3m 53.708s, https://www.ivoox.com/32403456)
+2. Concurso B-MOVE (3m 53.708s -- 7m 6.829s, 3m 13.121s, https://www.ivoox.com/32403469)
+3. Tertulia: la piratería (7m 6.829s -- 44m 19.282s, 37m 12.453s, https://www.ivoox.com/32403499)
+4. Entrevista: Maese (44m 19.941s -- 57m 5.010s, 12m 45.69s, https://www.ivoox.com/32403599)
+5. McLeod Ideafix: misterios de 8 bits y menos (57m 5.010s -- 1h 11m 14.280s, 14m 9.270s, https://www.ivoox.com/32403611)
+6. Canción final: ‘Frontier: Elite II’ (1h 11m 14.280s -- 1h 16m 27.403s, 5m 13.123s, https://www.ivoox.com/32403625)
   - Título: ‘Frontier: Elite II’
   - Autor: David Lowe
   - Año: 1993
@@ -91,12 +95,11 @@ Saludos
 
 RetroEntreAmigos 01x03 - La Burbuja Retro (2012-08, 1h 30m 55.935s)
 ======
-
-01 Intro, música y presentaciones (00h 00m 00.000s -- 32m 24.112s, https://www.ivoox.com/33650872)
-02 Tertulia: la burbuja de lo retro (32m 24.098s -- 44m 42.406s, 12m 18.308s, https://www.ivoox.com/33651120)
-03 Tertulia: el desprecintaje y otras cosas (44m 42.529s -- 1h 8m 22.212s, 23m 39.683s, https://www.ivoox.com/33651157)
-04 Misterios de 8 bits y menos (1h 8m 22.389s -- 1h 27m 42.159s, 19m 19.770s, https://www.ivoox.com/33651167)
-05 Final: melodía misteriosa (1h 27m 42.159s -- 1h 30m 55.935s, 3m 13.776s, https://www.ivoox.com/33651180)
+1. Intro, música y presentaciones (00h 00m 00.000s -- 32m 24.112s, https://www.ivoox.com/33650872)
+2. Tertulia: la burbuja de lo retro (32m 24.098s -- 44m 42.406s, 12m 18.308s, https://www.ivoox.com/33651120)
+3. Tertulia: el desprecintaje y otras cosas (44m 42.529s -- 1h 8m 22.212s, 23m 39.683s, https://www.ivoox.com/33651157)
+4. Misterios de 8 bits y menos (1h 8m 22.389s -- 1h 27m 42.159s, 19m 19.770s, https://www.ivoox.com/33651167)
+5. Final: melodía misteriosa (1h 27m 42.159s -- 1h 30m 55.935s, 3m 13.776s, https://www.ivoox.com/33651180)
   - Juego: ‘Shadow Warrior 3’ o ‘Ninja Gaiden III’
   - Título: The Ancient Ship of Doom - Act II Part 2
   - Autor: Keiji Yamagishi & Ryuichi Nitta
@@ -107,24 +110,22 @@ Audio original: https://www.ivoox.com/1361674
 
 RetroEntreAmigos 01x04 - Retro y paternidad (2012-09, 1h 44m 20.088s)
 ======
-
-01 Intro, música y presentaciones (0 -- 5m 12.541s, https://www.ivoox.com/33664840)
-02 Tertulia: lo retro y la paternidad (5m 12.541s -- 18m 10.107s, 12m 57.566s, https://www.ivoox.com/33664858)
-03 Tertulia: la retro-decepción (18m 10.107s -- 40m 46.454s, 22m 36.347s, https://www.ivoox.com/33664865)
-04 Crowdfunding de revista (40m 46.454s -- 47m 50.126s, 7m 3.672s, https://www.ivoox.com/33664872)
-05 McLeod Ideafix (47m 50.126s -- 1h 09m 20.691s, 21m 30.565s, https://www.ivoox.com/33664881)
-06 Tertulia: Commodore Amiga y Final (1h 09m 20.691s -- 1h 44m 20.088s, 34m 59.397s, https://www.ivoox.com/33664904)
+1. Intro, música y presentaciones (0 -- 5m 12.541s, https://www.ivoox.com/33664840)
+2. Tertulia: lo retro y la paternidad (5m 12.541s -- 18m 10.107s, 12m 57.566s, https://www.ivoox.com/33664858)
+3. Tertulia: la retro-decepción (18m 10.107s -- 40m 46.454s, 22m 36.347s, https://www.ivoox.com/33664865)
+4. Crowdfunding de revista (40m 46.454s -- 47m 50.126s, 7m 3.672s, https://www.ivoox.com/33664872)
+5. McLeod Ideafix (47m 50.126s -- 1h 09m 20.691s, 21m 30.565s, https://www.ivoox.com/33664881)
+6. Tertulia: Commodore Amiga y Final (1h 09m 20.691s -- 1h 44m 20.088s, 34m 59.397s, https://www.ivoox.com/33664904)
 
 URL original: https://www.ivoox.com/1403596
 
 RetroEntreAmigos 01x05 - Emuladores contra consolas (2012-10, 1h 44m 53.473s)
 ======
-
-01 Intro, música y presentaciones (0 -- 3m 15.640s, https://www.ivoox.com/33666164)
-02 Tertulia: Emuladores contra consolas (3m 15.640s -- 38m 26.670s, 35m 11.30s, https://www.ivoox.com/33666174)
-03 Tertulia: consoleros contra micro-usuarios (38m 26.670s -- 58m 28.525s, 20m 1.855s, https://www.ivoox.com/33666193)
-04 McLeod Ideafix (58m 28.525s -- 1h 21m 57.979s, 23m 29.454s, https://www.ivoox.com/33666196)
-05 Tertulia: juegos contados y Final (1h 21m 57.979s -- 1h 44m 53.473s, 22m 55.494s, https://www.ivoox.com/33666209)
+1. Intro, música y presentaciones (0 -- 3m 15.640s, https://www.ivoox.com/33666164)
+2. Tertulia: Emuladores contra consolas (3m 15.640s -- 38m 26.670s, 35m 11.30s, https://www.ivoox.com/33666174)
+3. Tertulia: consoleros contra micro-usuarios (38m 26.670s -- 58m 28.525s, 20m 1.855s, https://www.ivoox.com/33666193)
+4. McLeod Ideafix (58m 28.525s -- 1h 21m 57.979s, 23m 29.454s, https://www.ivoox.com/33666196)
+5. Tertulia: juegos contados y Final (1h 21m 57.979s -- 1h 44m 53.473s, 22m 55.494s, https://www.ivoox.com/33666209)
   – Juego: ‘The Last Ninja’
   – Autor: Ben Daglish
   – Máquina: Commodore 64
@@ -134,37 +135,34 @@ Audio original: https://www.ivoox.com/1461447
 
 RetroEntreAmigos 01x06 - Losing my religion (2012-11, 1h 52m 32.731s)
 ======
-
-01 Intro, música y presentaciones (00h 00m 00.000s -- 2m 28.929s, https://www.ivoox.com/33666326)
-02 Tertulia: Losing my religion, Anuncio: Game Gear (2m 28.929s -- 21m 2.217s, 18m 33.288s, https://www.ivoox.com/33666334)
-03 Tertulia: los joysticks, Anuncio: Sega MegaDrive (21m 2.217s -- 43m 53.220s, 22m 51.3s, https://www.ivoox.com/33666421)
-04 McLeod Ideafix: el microDrive (43m 53.220s -- 1h 12m 35.016s, 28m 41.796s, https://www.ivoox.com/33666448)
-05 Audiocorreos (1h 12m 35.016s -- 1h 17m 25.541s, 4m 50.525s, https://www.ivoox.com/33666513)
-06 Tertulia: ¿es el 2.5D el futuro de la jugabilidad retro?, Anuncio: Nintendo (1h 17m 25.541s -- 1h 38m 3.292s, 20m 37.751s, https://www.ivoox.com/33666576)
-07 Tertulia: los puristas, ¿son los defensores de lo auténtico o más debemos considerarlos retro-talibanes? (1h 38m 3.292s -- 1h 52m 32.731s, 14m 29.439s, https://www.ivoox.com/33666582)
+1. Intro, música y presentaciones (00h 00m 00.000s -- 2m 28.929s, https://www.ivoox.com/33666326)
+2. Tertulia: Losing my religion, Anuncio: Game Gear (2m 28.929s -- 21m 2.217s, 18m 33.288s, https://www.ivoox.com/33666334)
+3. Tertulia: los joysticks, Anuncio: Sega MegaDrive (21m 2.217s -- 43m 53.220s, 22m 51.3s, https://www.ivoox.com/33666421)
+4. McLeod Ideafix: el microDrive (43m 53.220s -- 1h 12m 35.016s, 28m 41.796s, https://www.ivoox.com/33666448)
+5. Audiocorreos (1h 12m 35.016s -- 1h 17m 25.541s, 4m 50.525s, https://www.ivoox.com/33666513)
+6. Tertulia: ¿es el 2.5D el futuro de la jugabilidad retro?, Anuncio: Nintendo (1h 17m 25.541s -- 1h 38m 3.292s, 20m 37.751s, https://www.ivoox.com/33666576)
+7. Tertulia: los puristas, ¿son los defensores de lo auténtico o más debemos considerarlos retro-talibanes? (1h 38m 3.292s -- 1h 52m 32.731s, 14m 29.439s, https://www.ivoox.com/33666582)
 
 URL original: https://www.ivoox.com/1539958
 
 RetroEntreAmigos 01x07 - Retro-basura (2012-12, 1h 35m 1.878s)
 ======
-
-01 Intro, música y presentaciones (00h 00m 00.000s -- 2m 19.488s, https://www.ivoox.com/33666683)
-02 Tertulia: la retro-basura; anuncio, retro-infante y Aladdin (2m 19.498s -- 18m 20.857s, 16m 1.359s, https://www.ivoox.com/33666691)
-03 Tertulia: ¿nuestra afición retro hace que seamos vistos raros o diferentes? Anuncio retro-infante y Sega Parque jurásico (18m 20.857s -- 38m 12.732s, 19m 51.875s, https://www.ivoox.com/33666713)
-04 McLeod Ideafix: misterios de 8 bits y menos; anuncio, Sonic (38m 12.732s -- 1h 8m 4.168s, 29m 51.436s, https://www.ivoox.com/33666725)
-05 Tertulia: subjetividad del coste de la retro-afición (1h 32m 42.321s -- 1h 35m 1.878s, 2m 19.557s, https://www.ivoox.com/33666729)
+1. Intro, música y presentaciones (00h 00m 00.000s -- 2m 19.488s, https://www.ivoox.com/33666683)
+2. Tertulia: la retro-basura; anuncio, retro-infante y Aladdin (2m 19.498s -- 18m 20.857s, 16m 1.359s, https://www.ivoox.com/33666691)
+3. Tertulia: ¿nuestra afición retro hace que seamos vistos raros o diferentes? Anuncio retro-infante y Sega Parque jurásico (18m 20.857s -- 38m 12.732s, 19m 51.875s, https://www.ivoox.com/33666713)
+4. McLeod Ideafix: misterios de 8 bits y menos; anuncio, Sonic (38m 12.732s -- 1h 8m 4.168s, 29m 51.436s, https://www.ivoox.com/33666725)
+5. Tertulia: subjetividad del coste de la retro-afición (1h 32m 42.321s -- 1h 35m 1.878s, 2m 19.557s, https://www.ivoox.com/33666729)
 
 URL original: https://www.ivoox.com/1614234
 
 RetroEntreAmigos 01x08 - Navidad y regalos (2013-01)
 ======
-
-01 Intro, música y presentaciones (00h 00m 00.000s -- 3m 42.087s, https://www.ivoox.com/33666806)
-02 Tertulia: Navidad y video-juegos (Ckultur caritativo) (3m 42.087s -- 29m 2.089s, 25m 20.2s, https://www.ivoox.com/33669116)
-03 Tertulia: ¿debemos tratar a los desarrolladores retro como profesionales? (29m 2.089s -- 47m 2.683s, 18m 0.594s, https://www.ivoox.com/33669126)
-04 McLeod Ideafix: misterios de 8 bits y menos (47m 2.683s -- 1h 20m 52.996s, 33m 50.313s, https://www.ivoox.com/33669165)
-05 Concurso: la melodía misteriosa (1h 20m 52.996s -- 1h 24m 49.828s, 3m 56.832s, https://www.ivoox.com/33669197)
-06 Tertulia final: el fenómeno fan-boy (1h 24m 49.828s -- 1h 55m 59.256s, 31m 9.428s, https://www.ivoox.com/33669206)
+1. Intro, música y presentaciones (00h 00m 00.000s -- 3m 42.087s, https://www.ivoox.com/33666806)
+2. Tertulia: Navidad y video-juegos (Ckultur caritativo) (3m 42.087s -- 29m 2.089s, 25m 20.2s, https://www.ivoox.com/33669116)
+3. Tertulia: ¿debemos tratar a los desarrolladores retro como profesionales? (29m 2.089s -- 47m 2.683s, 18m 0.594s, https://www.ivoox.com/33669126)
+4. McLeod Ideafix: misterios de 8 bits y menos (47m 2.683s -- 1h 20m 52.996s, 33m 50.313s, https://www.ivoox.com/33669165)
+5. Concurso: la melodía misteriosa (1h 20m 52.996s -- 1h 24m 49.828s, 3m 56.832s, https://www.ivoox.com/33669197)
+6. Tertulia final: el fenómeno fan-boy (1h 24m 49.828s -- 1h 55m 59.256s, 31m 9.428s, https://www.ivoox.com/33669206)
 
 URL original: https://www.ivoox.com/1679316
 
@@ -184,42 +182,39 @@ Por último… en esta edición no hay anuncios antiguos... pero hemos dado entr
 
 RetroEntreAmigos 01x09 - Mujeres y videojuegos (2013-02, 1h 30m 18.005s)
 ======
-
-01 Intro, música y presentaciones (00h 00m 00.000s -- 6m 2.546s, https://www.ivoox.com/33669352)
-02 Tertulia: los idiomas en los retro-juegos (6m 2.546s -- 24m 14.457s, 18m 11.911s, https://www.ivoox.com/33669495)
-03 Tertulia: mujeres en los videojuegos (24m 14.457s -- 38m 22.223s, 14m 7.766s, https://www.ivoox.com/33669531)
-04 Tertulia: ¿deben tener los juegos tecla de pausa? (38m 22.223s -- 53m 48.383s, 15m 26.160s, https://www.ivoox.com/33669569)
-05 Invitado: Roberto Fernández, desarrollador de videojuegos y organizador de RetroMadrid (53m 48.383s -- 1h 16m 28.681s, 22m 40.298s, https://www.ivoox.com/33669577)
-06 Tertulia: ¿Qué hubiera pasado si Sinclair no hubiese quebrado? (1h 16m 28.681s -- 1h 30m 18.005s, 13m 49.324s, https://www.ivoox.com/33669593)
+1. Intro, música y presentaciones (00h 00m 00.000s -- 6m 2.546s, https://www.ivoox.com/33669352)
+2. Tertulia: los idiomas en los retro-juegos (6m 2.546s -- 24m 14.457s, 18m 11.911s, https://www.ivoox.com/33669495)
+3. Tertulia: mujeres en los videojuegos (24m 14.457s -- 38m 22.223s, 14m 7.766s, https://www.ivoox.com/33669531)
+4. Tertulia: ¿deben tener los juegos tecla de pausa? (38m 22.223s -- 53m 48.383s, 15m 26.160s, https://www.ivoox.com/33669569)
+5. Invitado: Roberto Fernández, desarrollador de videojuegos y organizador de RetroMadrid (53m 48.383s -- 1h 16m 28.681s, 22m 40.298s, https://www.ivoox.com/33669577)
+6. Tertulia: ¿Qué hubiera pasado si Sinclair no hubiese quebrado? (1h 16m 28.681s -- 1h 30m 18.005s, 13m 49.324s, https://www.ivoox.com/33669593)
 
 URL original: https://www.ivoox.com/1752521
 
 RetroEntreAmigos 01x10 - Mascotas de videojuegos (2013-03, 1h 42m 15.693s)
 ======
-
-01 Intro, música y presentaciones (00h 00m 00.000s -- 4m 11.282s, https://www.ivoox.com/33669725)
-02 Tertulia: las mascotas y los videojuegos (4m 11.282s -- 29m 50.024s, 25m 38.742s, https://www.ivoox.com/33669731)
-03 Tertulia: ¿Es mejor vivir lo retro a nuestra edad es mejor haberlo vivido más jóvenes? (29m 50.024s -- 54m 8.693s, 24m 18.669s, https://www.ivoox.com/33669748)
-04 McLeod Ideafix (54m 8.693s -- 1h 17m 11.855s, 23m 3.162s, https://www.ivoox.com/33669759)
-05 Tertulia: revistas de videojuegos, ¿son aún interesantes? (1h 17m 11.855s -- 1h 42m 15.693s, 25m 3.838s, https://www.ivoox.com/33669768)
+1. Intro, música y presentaciones (00h 00m 00.000s -- 4m 11.282s, https://www.ivoox.com/33669725)
+2. Tertulia: las mascotas y los videojuegos (4m 11.282s -- 29m 50.024s, 25m 38.742s, https://www.ivoox.com/33669731)
+3. Tertulia: ¿Es mejor vivir lo retro a nuestra edad es mejor haberlo vivido más jóvenes? (29m 50.024s -- 54m 8.693s, 24m 18.669s, https://www.ivoox.com/33669748)
+4. McLeod Ideafix (54m 8.693s -- 1h 17m 11.855s, 23m 3.162s, https://www.ivoox.com/33669759)
+5. Tertulia: revistas de videojuegos, ¿son aún interesantes? (1h 17m 11.855s -- 1h 42m 15.693s, 25m 3.838s, https://www.ivoox.com/33669768)
 
 URL original: https://www.ivoox.com/1828554
 
 RetroEntreAmigos 01x11 - Las portadas (2013-04, 2h 15m 24.630s)
 ======
-
-01 Intro, música y presentaciones (00h 00m 00.000s -- 1m 56.183s, https://www.ivoox.com/33669914)
-02 Tertulia: las portadas (1m 56.294s -- 32m 8.623s, 30m 12.329s, https://www.ivoox.com/33669999)
-03 Carta del oyente: Gabriel Moreno (32m 8.623s -- 49m 48.867s, 17m 40.244s, https://www.ivoox.com/33670031)
-  * ¿Qué juegos de plataformas de la SNES me recomendáis? Super Mario World, Super Mario All-Star, Saga Donkey Kong
-  * ¿Pensáis
-  * Para vosotros, ¿cuál es el mejor videojuego de la historia?
-  * ¿Cuál es mejor Super Mario Bros 3 de NES o Super Mario World de SNES?
-04 Tertulia: ¿Qué juego fingiste odiar, carcomido por la envidia porque no podías jugar con él? (49m 48.867s -- 1h 9m 54.173s, 20m 5.306s, https://www.ivoox.com/33670040)
-05 McLeod Ideafix: divide plus (1h 9m 54.173s -- 1h 31m 14.271s, 21m 20.98s, https://www.ivoox.com/33670052)
-06 Concurso: la melodía misteriosa: Video killed the radio star (1h 31m 14.271s -- 1h 35m 9.912s, 3m 55.641s, https://www.ivoox.com/33670067)
-07 Entrevista: Jaime Tejedor, CEZ y Retroworks (1h 35m 9.912s -- 1h 48m 40.810s, 13m 30.898s, https://www.ivoox.com/33670081)
-08 Tertulia: la diversión retrojueguil, ¿mejor solo o acompañado? Canción final (1h 48m 40.810s -- 2h 15m 24.630s, 26m 43.820s, https://www.ivoox.com/33670150)
+1. Intro, música y presentaciones (00h 00m 00.000s -- 1m 56.183s, https://www.ivoox.com/33669914)
+2. Tertulia: las portadas (1m 56.294s -- 32m 8.623s, 30m 12.329s, https://www.ivoox.com/33669999)
+3. Carta del oyente: Gabriel Moreno (32m 8.623s -- 49m 48.867s, 17m 40.244s, https://www.ivoox.com/33670031)
+   * ¿Qué juegos de plataformas de la SNES me recomendáis? Super Mario World, Super Mario All-Star, Saga Donkey Kong
+   * ¿Pensáis
+   * Para vosotros, ¿cuál es el mejor videojuego de la historia?
+   * ¿Cuál es mejor Super Mario Bros 3 de NES o Super Mario World de SNES?
+4. Tertulia: ¿Qué juego fingiste odiar, carcomido por la envidia porque no podías jugar con él? (49m 48.867s -- 1h 9m 54.173s, 20m 5.306s, https://www.ivoox.com/33670040)
+5. McLeod Ideafix: divide plus (1h 9m 54.173s -- 1h 31m 14.271s, 21m 20.98s, https://www.ivoox.com/33670052)
+6. Concurso: la melodía misteriosa: Video killed the radio star (1h 31m 14.271s -- 1h 35m 9.912s, 3m 55.641s, https://www.ivoox.com/33670067)
+7. Entrevista: Jaime Tejedor, CEZ y Retroworks (1h 35m 9.912s -- 1h 48m 40.810s, 13m 30.898s, https://www.ivoox.com/33670081)
+8. Tertulia: la diversión retrojueguil, ¿mejor solo o acompañado? Canción final (1h 48m 40.810s -- 2h 15m 24.630s, 26m 43.820s, https://www.ivoox.com/33670150)
   – Título: Don't You (Forget About Me)
   – Grupo: Simple Minds
   – YouTube: https://www.youtube.com/watch?v=CdqoNKCCt7A
@@ -232,15 +227,15 @@ https://www.youtube.com/watch?v=ZRhIAQAiTtY
 RetroEntreAmigos 01x12 - Origen de los nicks (2013-05, 2h 15m 13.162s)
 ======
 
-01 Intro, música y presentaciones (00h 00m 00.000s -- 3m 25.306s, https://www.ivoox.com/33670275)
-02 Tertulia: Origen de los nicks (3m 25.306s -- 15m 31.923s, 12m 6.617s, https://www.ivoox.com/33670320)
-03 Promoción RetroMálaga 2013 (15m 31.923s -- 26m 29.007s, 10m 57.84s, https://www.ivoox.com/33670334)
-04 Tertulia: Los scores (26m 29.007s -- 39m 33.025s, 13m 4.18s, https://www.ivoox.com/33670343)
-05 McLeod Ideafix: origen del nick y sección habitual (39m 33.025s -- 1h 1m 21.042s, 21m 48.17s, https://www.ivoox.com/33670351)
-06 Correos de los oyentes: YMN y Gabriel Moreno (1h 1m 21.042s -- 1h 38m 17.268s, 36m 56.226s, https://www.ivoox.com/33670373)
-  Seth gunpei yokoi, origen de gameboy
-  Mejores aventuras gráficas
-07 Tertulia y música final: ¿qué bugs te has encontrado en los videojuegos? (1h 38m 17.268s -- 2h 15m 13.162s, 36m 55.894s, https://www.ivoox.com/33670386)
+1. Intro, música y presentaciones (00h 00m 00.000s -- 3m 25.306s, https://www.ivoox.com/33670275)
+2. Tertulia: Origen de los nicks (3m 25.306s -- 15m 31.923s, 12m 6.617s, https://www.ivoox.com/33670320)
+3. Promoción RetroMálaga 2013 (15m 31.923s -- 26m 29.007s, 10m 57.84s, https://www.ivoox.com/33670334)
+4. Tertulia: Los scores (26m 29.007s -- 39m 33.025s, 13m 4.18s, https://www.ivoox.com/33670343)
+5. McLeod Ideafix: origen del nick y sección habitual (39m 33.025s -- 1h 1m 21.042s, 21m 48.17s, https://www.ivoox.com/33670351)
+6. Correos de los oyentes: YMN y Gabriel Moreno (1h 1m 21.042s -- 1h 38m 17.268s, 36m 56.226s, https://www.ivoox.com/33670373)
+   Seth gunpei yokoi, origen de gameboy
+   Mejores aventuras gráficas
+7. Tertulia y música final: ¿qué bugs te has encontrado en los videojuegos? (1h 38m 17.268s -- 2h 15m 13.162s, 36m 55.894s, https://www.ivoox.com/33670386)
   Pacman y el nivel 255
   – Título: Kathy's Song (Ferry Corsten Remix)
   – Autor: Apoptygma Berzerk
