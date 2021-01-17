@@ -26,13 +26,15 @@ RetroEntreAmigos 01x00 - Episodio piloto (2012-05, 1h 17m 27.863s)
 3. Tertulia: productos digitales o en formato físico (8m 40.127s -- 23m 43.383s, 15m 3.256s, https://www.ivoox.com/32117068)
 4. McLeod Ideafix (23m 43.383s -- 53m 44.368s, 30m 0.985s, https://www.ivoox.com/32122189)
 5. Tertulia: los recreativos del barrio (53m 44.694s -- 1h 13m 21.168s, 19m 36.474s, https://www.ivoox.com/32122252)
-6. Epílogo y música final: (1h 13m 21.302s -- 1h 17m 27.863s, 4m 6.561s, https://www.ivoox.com/32122344)Música final:
-  – Título: Kentilla Main Theme
-  – Autor: Rob Hubbard
-  – Plataforma: Commodore 64
-  – Año: 1984
-  – YouTube Vídeo 1: https://www.youtube.com/watch?v=_IwzkcRh5dE (vista osciloscopio de los tres canales de audio) [![YouTube Video 1](http://img.youtube.com/vi/_IwzkcRh5dE/0.jpg)](http://www.youtube.com/watch?v=_IwzkcRh5dE)
-  – YouTube Vídeo 2: https://www.youtube.com/watch?v=SX0gIf1Hg4E [![YouTube Video 2](http://img.youtube.com/vi/SX0gIf1Hg4E/0.jpg)](http://www.youtube.com/watch?v=SX0gIf1Hg4E)
+6. Epílogo y música final: (1h 13m 21.302s -- 1h 17m 27.863s, 4m 6.561s, https://www.ivoox.com/32122344)
+
+   Música final:  
+   – Título: Kentilla Main Theme
+   – Autor: Rob Hubbard
+   – Plataforma: Commodore 64
+   – Año: 1984
+   – YouTube Vídeo 1: https://www.youtube.com/watch?v=_IwzkcRh5dE (vista osciloscopio de los tres canales de audio) <!-- [![YouTube Video 1](http://img.youtube.com/vi/_IwzkcRh5dE/0.jpg)](http://www.youtube.com/watch?v=_IwzkcRh5dE) -->
+   – YouTube Vídeo 2: https://www.youtube.com/watch?v=SX0gIf1Hg4E <!-- [![YouTube Video 2](http://img.youtube.com/vi/SX0gIf1Hg4E/0.jpg)](http://www.youtube.com/watch?v=SX0gIf1Hg4E) -->
 
 URL original: https://www.ivoox.com/1201924
 _____________________
