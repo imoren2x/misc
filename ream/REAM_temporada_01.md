@@ -240,9 +240,9 @@ RetroEntreAmigos 01x12 - Origen de los nicks (2013-05, 2h 15m 13.162s)
   - Mejores aventuras gráficas
 7. Tertulia y música final: ¿qué bugs te has encontrado en los videojuegos? (1h 38m 17.268s -- 2h 15m 13.162s, 36m 55.894s, https://www.ivoox.com/33670386)
 
-   Pacman y el nivel 255
-   – Título: Kathy's Song (Ferry Corsten Remix)
-   – Autor: Apoptygma Berzerk
+   Pacman y el nivel 255  
+   – Título: Kathy's Song (Ferry Corsten Remix)  
+   – Autor: Apoptygma Berzerk  
    – YouTube: https://www.youtube.com/watch?v=l4pbfAzpa8Q
 
 URL original: https://www.ivoox.com/1999631
