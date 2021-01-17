@@ -6,39 +6,39 @@ Temporada 1
 ------
 | Episodio  |  Fecha    | Título        | Enlace Web    | Enlace Ivoox  |
 |-----------|-----------|---------------|---------------|---------------|
-| 01x00     | 2012-05   | Episodio piloto |             |               |
-| 01x01     | 2012-06   |               |               |               |
-| 01x02     | 2012-07   |               |               |               |
-| 01x03     | 2012-08   |               |               |               |
-| 01x04     | 2012-09   |               |               |               |
-| 01x05     | 2012-10   |               |               |               |
-| 01x06     | 2012-11   |               |               |               |
-| 01x07     | 2012-12   |               |               |               |
-| 01x08     | 2013-01   |               |               |               |
-| 01x09     | 2013-02   |               |               |               |
-| 01x10     | 2013-03   |               |               |               |
-| 01x11     | 2013-04   |               |               |               |
-| 01x12     | 2013-05   |               |               |               |
+| 01x00     | 2012-05   | Episodio piloto | https://www.retroentreamigos.com/retro-entre-amigos-episodio-00-piloto |               |
+| 01x01     | 2012-06   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-01 |               |
+| 01x02     | 2012-07   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-02 |               |
+| 01x03     | 2012-08   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-03 |               |
+| 01x04     | 2012-09   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-04 |               |
+| 01x05     | 2012-10   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-05 |               |
+| 01x06     | 2012-11   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-06 |               |
+| 01x07     | 2012-12   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-07 |               |
+| 01x08     | 2013-01   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-08 |               |
+| 01x09     | 2013-02   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-09 |               |
+| 01x10     | 2013-03   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-10 |               |
+| 01x11     | 2013-04   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-11 |               |
+| 01x12     | 2013-05   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-12 |               |
 
 
 Temporada 2
 ------
-| Episodio  |  Fecha    | Título        |
-|-----------|-----------|---------------|
-| 02x01     | 2013-06   |               |
-| 02x02     | 2013-07   |               |
-| 02x03     | 2013-08   |               |
-| 02x04     | 2013-09   |               |
-| 02x05     | 2013-10   |               |
-| 02x06     | 2013-11   |               |
-| 02x07     | 2013-12   |               |
-| 02x08     | 2014-01   |               |
-| 02x09     | 2014-02   |               |
-| 02x10     | 2014-03   |               |
-| -         | 2014-04   |               |
-| -         | 2014-05   |               |
-| 02x11     | 2014-06   |               |
-| 02x12     | 2014-07   |               |
+| Episodio  |  Fecha    | Título        | Enlace Web    | Enlace Ivoox  |
+|-----------|-----------|---------------|---------------|---------------|
+| 02x01     | 2013-06   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-2x01 |               |
+| 02x02     | 2013-07   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-2x02 |               |
+| 02x03     | 2013-08   |               |               |               |
+| 02x04     | 2013-09   |               |               |               |
+| 02x05     | 2013-10   |               |               |               |
+| 02x06     | 2013-11   |               |               |               |
+| 02x07     | 2013-12   |               |               |               |
+| 02x08     | 2014-01   |               |               |               |
+| 02x09     | 2014-02   |               |               |               |
+| 02x10     | 2014-03   |               |               |               |
+| -         | 2014-04   |               |               |               |
+| -         | 2014-05   |               |               |               |
+| 02x11     | 2014-06   |               |               |               |
+| 02x12     | 2014-07   |               |               |               |
 
 
 Temporada 3
