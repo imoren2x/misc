@@ -26,7 +26,6 @@ RetroEntreAmigos 01x00 - Episodio piloto (2012-05, 1h 17m 27.863s)
 3. Tertulia: productos digitales o en formato físico (8m 40.127s -- 23m 43.383s, 15m 3.256s, https://www.ivoox.com/32117068)
 4. McLeod Ideafix (23m 43.383s -- 53m 44.368s, 30m 0.985s, https://www.ivoox.com/32122189)
 5. Tertulia: los recreativos del barrio (53m 44.694s -- 1h 13m 21.168s, 19m 36.474s, https://www.ivoox.com/32122252)
-  * Sub-item
 6. Epílogo y música final: (1h 13m 21.302s -- 1h 17m 27.863s, 4m 6.561s, https://www.ivoox.com/32122344)
 
    Música final:  
@@ -129,10 +128,10 @@ RetroEntreAmigos 01x05 - Emuladores contra consolas (2012-10, 1h 44m 53.473s)
 3. Tertulia: consoleros contra micro-usuarios (38m 26.670s -- 58m 28.525s, 20m 1.855s, https://www.ivoox.com/33666193)
 4. McLeod Ideafix (58m 28.525s -- 1h 21m 57.979s, 23m 29.454s, https://www.ivoox.com/33666196)
 5. Tertulia: juegos contados y Final (1h 21m 57.979s -- 1h 44m 53.473s, 22m 55.494s, https://www.ivoox.com/33666209)
-  – Juego: ‘The Last Ninja’
-  – Autor: Ben Daglish
-  – Máquina: Commodore 64
-  – YouTube: https://www.youtube.com/watch?v=_XZPflpw-ys
+  - Juego: ‘The Last Ninja’
+  - Autor: Bench Daglish
+  - Máquina: Commodore 64
+  - YouTube: https://www.youtube.com/watch?v=_XZPflpw-ys
 
 Audio original: https://www.ivoox.com/1461447
 
@@ -218,14 +217,15 @@ RetroEntreAmigos 01x11 - Las portadas (2013-04, 2h 15m 24.630s)
 6. Concurso: la melodía misteriosa: Video killed the radio star (1h 31m 14.271s -- 1h 35m 9.912s, 3m 55.641s, https://www.ivoox.com/33670067)
 7. Entrevista: Jaime Tejedor, CEZ y Retroworks (1h 35m 9.912s -- 1h 48m 40.810s, 13m 30.898s, https://www.ivoox.com/33670081)
 8. Tertulia: la diversión retrojueguil, ¿mejor solo o acompañado? Canción final (1h 48m 40.810s -- 2h 15m 24.630s, 26m 43.820s, https://www.ivoox.com/33670150)
-  – Título: Don't You (Forget About Me)
-  – Grupo: Simple Minds
-  – YouTube: https://www.youtube.com/watch?v=CdqoNKCCt7A
+  - Título: Don't You (Forget About Me)
+  - Grupo: Simple Minds
+  - YouTube: https://www.youtube.com/watch?v=CdqoNKCCt7A
 
 URL original: https://www.ivoox.com/1911650
 
 Mónaco, What do you want to me?
 https://www.youtube.com/watch?v=ZRhIAQAiTtY
+
 
 RetroEntreAmigos 01x12 - Origen de los nicks (2013-05, 2h 15m 13.162s)
 ======
@@ -236,12 +236,13 @@ RetroEntreAmigos 01x12 - Origen de los nicks (2013-05, 2h 15m 13.162s)
 4. Tertulia: Los scores (26m 29.007s -- 39m 33.025s, 13m 4.18s, https://www.ivoox.com/33670343)
 5. McLeod Ideafix: origen del nick y sección habitual (39m 33.025s -- 1h 1m 21.042s, 21m 48.17s, https://www.ivoox.com/33670351)
 6. Correos de los oyentes: YMN y Gabriel Moreno (1h 1m 21.042s -- 1h 38m 17.268s, 36m 56.226s, https://www.ivoox.com/33670373)
-   Seth gunpei yokoi, origen de gameboy
-   Mejores aventuras gráficas
+  - Seth gunpei yokoi, origen de gameboy
+  - Mejores aventuras gráficas
 7. Tertulia y música final: ¿qué bugs te has encontrado en los videojuegos? (1h 38m 17.268s -- 2h 15m 13.162s, 36m 55.894s, https://www.ivoox.com/33670386)
-  Pacman y el nivel 255
-  – Título: Kathy's Song (Ferry Corsten Remix)
-  – Autor: Apoptygma Berzerk
-  – YouTube: https://www.youtube.com/watch?v=l4pbfAzpa8Q
+
+   Pacman y el nivel 255
+   – Título: Kathy's Song (Ferry Corsten Remix)
+   – Autor: Apoptygma Berzerk
+   – YouTube: https://www.youtube.com/watch?v=l4pbfAzpa8Q
 
 URL original: https://www.ivoox.com/1999631
