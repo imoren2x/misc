@@ -1,1 +1,0 @@
-cd %1 && update_%2.bat && cd %CD%
