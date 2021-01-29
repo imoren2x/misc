@@ -3,6 +3,12 @@ YouTube: History of Video Games: 1947 - 1979 by NoxElement
 
 URL: https://youtube.com/watch?v=dF0vS5ZrMiI
 
+Music:
+ - Title:   Cybertelepathy
+ - Author:  Andrey Avkhimovich
+ - URL:     https://www.youtube.com/watch?v=fTux2DO-TPg
+ - Author's YouTube: https://www.youtube.com/channel/UCbvCi74SAj_JoY_7dNjEbRQ
+
 | No  | Year | Title                        | Notes     |
 |-----|------|------------------------------|-----------|
 |   1 | 1947 | Cathode-Ray Amusement Device |           |
