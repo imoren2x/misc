@@ -1,17 +1,5 @@
 Juegos de la NES
-====
-
-| Clase       | Número |
-|-------------|--------|
-| Plataformas |        |
-| Deportes    |        |
-| Naves       |        |
-| Coches/Motos|        |
-| Acción/Lucha|        |
-| Estrategia  |        |
-| Inteligencia|        |
-| Rol         |        |
-
+======
 
 | No  | Title                                   | Year | Category       | Developer             | Publisher             | Notes                 |
 |-----|-----------------------------------------|------|----------------|-----------------------|-----------------------|-----------------------|
@@ -245,6 +233,7 @@ Juegos de la NES
 |     | M.U.L.E.                                | 1990 | Inteligencia | Ozark Softscape       | Mindscape             |                       |
 |     | Marble Madness                          | 1989 | Inteligencia | Atari                 | Milton Bradley        |                       |
 |     | Wario's Woods                           | 1994 | Inteligencia | Nintendo              | Nintendo              |                       |
+|     | Robowarrior                             | 1987 | Inteligencia |                       |                       |                       |
 |     |                                         |      |              |                       |                       |                       |
 |     | Marble Madness                          | 19   | Aventura/Rol |                       |                       |                       |
 |     | Metal Gear                              | 1988 | Aventura/Rol | Konami                | Ultra                 |                       |
@@ -265,7 +254,6 @@ Juegos de la NES
 |     | Snake's Revenge                         | 1990 | Aventura/Rol | Konami                | Ultra                 |                       |
 |     | Swords and Serpents 1990                | 19   | Aventura/Rol |                       |                       |                       |
 |     | Willow                                  | 1989 | Aventura/Rol |                       |                       |                       |
-|     | Zelda 1 y 2 1987 1988                   | 19   | Aventura/Rol |                       |                       |                       |
 |     | Maniac Mansion 1990                     | 19   | Aventura/Rol |                       |                       |                       |
 |     | - Deja vu                               | 19   | Aventura/Rol |                       |                       |                       |
 |     | - Uninvited                             | 1991 | Aventura/Rol |                       |                       |                       |
@@ -293,8 +281,17 @@ Juegos de la NES
 |     | Uninvited                               | 19   | Aventuras Gráfica |                       |                       |                       |
 |     | Linus Spacehead's cosmic crusade        | 19   | Aventuras Gráfica |                       |                       | (alterna plataformas y aventura gráfica, pero sin mezclar) |
 |     | Nightshade                              | 19   | Aventuras Gráfica |                       |                       | (mezcla plataformas y aventura gráfica) |
-|     |                                         |      |                   |                       |                       |                       |
-|     | Robowarrior                             | 19   | Otros juegos |                       |                       |                       |
+
+| Clase        | Número |
+|--------------|--------|
+| Plataformas  |        |
+| Deportes     |        |
+| Naves        |        |
+| Coches/Motos |        |
+| Acción/Lucha |        |
+| Estrategia   |        |
+| Inteligencia |        |
+| Aventura/Rol |        |
 
 
 | Año  | Número |
