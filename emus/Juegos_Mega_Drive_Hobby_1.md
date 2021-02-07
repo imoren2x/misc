@@ -1,6 +1,10 @@
 Juegos Mega Drive Hobby Consolas 1, octubre 1991
 ======
 
+* Hobby Consolas: https://www.devuego.es/pres/revistas/hobby-consolas/?vista=mosaico&ano=todos
+* Hobby Consolas 1, octubre 1991: https://archive.org/details/HobbyConsolas001
+* Devuego, Hobby Consolas 1: https://www.devuego.es/pres/revista/hobby-consolas/1
+
 
 | No  | Title                                   | Year | Category       | Notes      |
 |-----|-----------------------------------------|------|----------------|------------|

@@ -96,3 +96,13 @@ Juegos de la Mega Drive (PAL España)
 |   4 | Cannon Fodder                           | 19   | Strategy/Sim   |                       |                       |                       |
 |   5 | The Chaos Engine                        | 19   | Strategy/Sim   |                       |                       |                       |
 |   6 | General Chaos                           | 19   | Strategy/Sim   |                       |                       |                       |
+
+References
+------
+* [Sega Mega Drive / Genesis](https://en.wikipedia.org/wiki/Sega_Genesis)
+* [Anexo:Videojuegos para Sega Mega Drive](https://es.wikipedia.org/wiki/Anexo:Videojuegos_para_Sega_Mega_Drive)
+* [List of Sega Genesis games](https://en.wikipedia.org/wiki/List_of_Sega_Genesis_games)
+* [Categoría:Videojuegos para Sega Mega Drive](https://es.wikipedia.org/wiki/Categor%C3%ADa:Videojuegos_para_Sega_Mega_Drive)
+* [Sega Retro](https://segaretro.org/Main_Page)
+* [175 Juegos Clásicos de SEGA MEGA DRIVE /SEGA GENESIS en 35 Min.](https://www.youtube.com/watch?v=549bqpol920)
+* [50 Underrated Sega Genesis Games](https://www.denofgeek.com/games/underrated-sega-genesis-games/)

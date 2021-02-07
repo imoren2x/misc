@@ -30,6 +30,7 @@ Juegos Arcade
 | 1973 | Trek'73                         |            |                         |
 | 1974 | Gran Trak 10                    |            | Racing                  |
 | 1974 | Maze War                        |            | 3-D                     |
+| 1974 | Clean Sweep                     |            |                         |
 | 1974 | Ping-O-Tronic                   |            | Zanussi                 |
 | 1974 | Qwak!                           |            |                         |
 | 1974 | Rebound                         |            |                         |

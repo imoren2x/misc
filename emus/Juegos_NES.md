@@ -312,3 +312,7 @@ References
 * [Anexo:Videojuegos para NES](https://es.wikipedia.org/wiki/Anexo:Videojuegos_para_NES)
 * [Categoría:Videojuegos para Nintendo Entertainment System](https://es.wikipedia.org/wiki/Categor%C3%ADa:Videojuegos_para_Nintendo_Entertainment_System)
 * [Anexo:Videojuegos más vendidos de la Nintendo NES](https://es.wikipedia.org/wiki/Anexo:Videojuegos_m%C3%A1s_vendidos_de_la_Nintendo_NES)
+* [RetroNES, la mejor página de NES y en español](http://www.retrones.net)
+* [Kaiser land 77 - Nintendo Entertainment System](https://www.kaiserland77.com/wikines77/index.php/P%C3%A1gina_principal)
+* [Kaiser land 77 - Manuales de NES en español](https://www.kaiserland77.com/wikines77/index.php/Manuales_de_NES_en_Espa%C3%B1ol)
+* [Devuego - Club Nintendo](https://www.devuego.es/pres/revistas/club-nintendo/?epoca=primera)
