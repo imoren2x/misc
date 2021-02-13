@@ -1,19 +1,19 @@
+RetroEntreAmigos: temporada 5
+======
 
-
-
-| Episodio |  Fecha  | Duración   |         Título           |  Sección 2  |   Sección 3    |  Sección 4   |  Sección 5  | Sección 6  |   Sección 7 |
-|----------|---------|---------------------------------------|-------------|----------------|--------------|-------------|------------|-------------|
-|  05x01   | 2016-09 | 2h 54m 17m | Rentrée                  | Robos y latrocinios | Yayo-trasto   | Cartas en el tiempo | Nicogalis | | |
-|  05x02   | 2016-10 | 3h 25m 49m | -                        | Duración juegos ahora y antes | Sensei Capacitor Amiga | Isasías N64 | McLeod | | |
-|  05x03   | 2016-11 | 3h 19m 28m | Coleccionismo            | Coleccionismo | McLeod         | Yayo-trasto   | Multidude (ZX-Spectrum) | | |
-|  05x04   | 2016-12 |  h   m   m | Navidad                  | | | | | | |
-|  05x05   | 2017-01 |  h   m   m | Juguetes falsificados    | Retrocesta  | McLeod  | | | | |
-|  05x06   | 2017-02 |  h   m   m | El tiempo de los VJ      | Anuncio RetroPixel 2017 | | | | | |
-|  05x07   | 2017-03 |  h   m   m | Pre-RetroPixel 2017      | Anuncio RetroPixel 2017 | | | | | |
-|  05x08   | 2017-04 |  h   m   m | Post-RetroPixel 2017     | Post-Retropixel | | | | | |
-|  05x09   | 2017-05 |  h   m   m | ¿Qué echaremos de menos en 30 años? |  | | | | | | |
-|  05x10   | 2017-06 |  h   m   m | Retro-reparaciones       |  | | | | | | |
-|  05x11   | 2017-07 |  h   m   m | Fiebre de consolas retro | ¿Cuál fue aquella vez que recibiste una lección de vida? | Quejas del oyente y tertulia | ¿Qué artículo retro os<br/> costó más conseguir? | Os traigo un juego: Wheelie <br/> (Morgan, Spectrum, 1983) | McLeod | Cartas en el tiempo | Tertulia final y música |
+| Episodio |  Fecha  | Duración   |         Título           |  Sección 2  |   Sección 3    |  Sección 4   |  Sección 5  | Sección 6  |   Sección 7 |   Sección 8 |
+|----------|---------|------------|--------------------------|-------------|----------------|--------------|-------------|------------|-------------|-------------|
+|  05x01   | 2016-09 | 2h 54m 17m | Rentrée                  | Robos y latrocinios | Yayo-trasto | Cartas en el tiempo | Nicogalis |  |             |             |
+|  05x02   | 2016-10 | 3h 25m 49m | -                        | Duración juegos ahora y antes | Sensei Capacitor Amiga | Isasías N64 | McLeod | |    |             |
+|  05x03   | 2016-11 | 3h 19m 28m | Coleccionismo            | Coleccionismo | McLeod | Yayo-trasto | Multidude (ZX-Spectrum) |       |             |             |
+|  05x04   | 2016-12 |  h   m   m | Navidad                  |             |                |              |             |            |             |             |
+|  05x05   | 2017-01 |  h   m   m | Juguetes falsificados    | Retrocesta  | McLeod         |              |             |            |             |             |
+|  05x06   | 2017-02 |  h   m   m | El tiempo de los VJ      | Anuncio RetroPixel 2017 |    |              |             |            |             |             |
+|  05x07   | 2017-03 |  h   m   m | Pre-RetroPixel 2017      | Anuncio RetroPixel 2017 |    |              |             |            |             |             |
+|  05x08   | 2017-04 |  h   m   m | Post-RetroPixel 2017     | Post-Retropixel |            |              |             |            |             |             |
+|  05x09   | 2017-05 |  h   m   m | ¿Qué echaremos de menos en 30 años? |  |                |              |             |            |             |             |
+|  05x10   | 2017-06 |  h   m   m | Retro-reparaciones       |             |                |              |             |            |             |             |
+|  05x11   | 2017-07 |  h   m   m | Fiebre de consolas retro | ¿Cuál fue aquella vez que recibiste una lección de vida? | Quejas del oyente y tertulia | ¿Qué artículo retro os<br/> costó más conseguir? | J: Wheelie | McLeod | Cartas en el tiempo | Tertulia final y música |
 
 
 Título, Tertuliano, Episodio, Plataforma, Año, Publicación, Rediciones, Descarga, Related Games
