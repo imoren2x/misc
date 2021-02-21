@@ -1,31 +1,76 @@
 RetroEntreAmigos: Índice
 ======
 
-
 Temporada 1
 ------
-| Episodio  |  Fecha    | Título        | Enlace Web    | Enlace Ivoox  |
-|-----------|-----------|---------------|---------------|---------------|
-| 01x00     | 2012-05   | Episodio piloto | https://www.retroentreamigos.com/retro-entre-amigos-episodio-00-piloto |               |
-| 01x01     | 2012-06   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-01 |               |
-| 01x02     | 2012-07   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-02 |               |
-| 01x03     | 2012-08   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-03 |               |
-| 01x04     | 2012-09   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-04 |               |
-| 01x05     | 2012-10   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-05 |               |
-| 01x06     | 2012-11   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-06 |               |
-| 01x07     | 2012-12   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-07 |               |
-| 01x08     | 2013-01   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-08 |               |
-| 01x09     | 2013-02   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-09 |               |
-| 01x10     | 2013-03   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-10 |               |
-| 01x11     | 2013-04   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-11 |               |
-| 01x12     | 2013-05   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-12 |               |
+| Episodio  |  Fecha    | Título            | Enlace Web     | Enlace Ivoox  |
+|-----------|-----------|-------------------|----------------|---------------|
+| -         | 2012-05   | Bienvenid@s a Retro entre amigos   | https://www.retroentreamigos.com/bienvenidos-a-retro-entre-amigos |               |
+| 01x00     | 2012-05   | Episodio piloto   | [01x00][01x00] |               |
+| -         | 2012-05   | Retromúsica “Shadow of the Beast”  | https://www.retroentreamigos.com/retromusica-shadow-of-the-beast |               |
+| -         | 2012-05   | Ahora también en Retroinvaders  | https://www.retroentreamigos.com/ahora-tambien-en-retroinvaders |               |
+| -         | 2012-05   | Retromúsica “Lotus Trilogy” | https://www.retroentreamigos.com/retromusica-lotus-trilogy |               |
+| -         | 2012-05   | La insoportable levedad del píxel | https://www.retroentreamigos.com/la-insoportable-levedad-del-pixel |               |
+| -         | 2012-05   | Retromúsica “Space Quest” | https://www.retroentreamigos.com/retromusica-space-quest |               |
+| -         | 2012-05   | Retromúsica “Savage” | https://www.retroentreamigos.com/retromusica-savage |               |
+| 01x01     | 2012-06   | Episodio 1        | https://www.retroentreamigos.com/retro-entre-amigos-episodio-01 |               |
+| -         | 2012-06   | Retromúsica “Dark Fusion” | https://www.retroentreamigos.com/retromusica-dark-fusion |               |
+| -         | 2012-06   | Retromúsica “HeroQuest” | https://www.retroentreamigos.com/retromusica-heroquest |               |
+| -         | 2012-06   | Retromúsica “Twin Bee” | https://www.retroentreamigos.com/retromusica-twin-bee |               |
+| -         | 2012-06   | Retromúsica “Yo! Joe!” | https://www.retroentreamigos.com/retromusica-yo-joe |               |
+| 01x02     | 2012-07   | Episodio 2        | https://www.retroentreamigos.com/retro-entre-amigos-episodio-02 |               |
+| -         | 2012-07   | Ganador del concurso – Episodio 02 | https://www.retroentreamigos.com/ganador-del-concurso-episodio-02
+| -         | 2012-07   | Retromúsica “Knightmare y Ramparts” | https://www.retroentreamigos.com/retromusica-knightmare-ramparts
+| -         | 2012-07   | Retromúsica “Jim Power” | https://www.retroentreamigos.com/retromusica-jim-power
+| 01x03     | 2012-08   | Episodio 3        | https://www.retroentreamigos.com/retro-entre-amigos-episodio-03 |               |
+| 01x04     | 2012-09   | Episodio 4        | https://www.retroentreamigos.com/retro-entre-amigos-episodio-04 |               |
+| 01x05     | 2012-10   | Episodio 5        | https://www.retroentreamigos.com/retro-entre-amigos-episodio-05 |               |
+| -         | 2012-10   | ¿Quién hay detrás de nuestra sintonía? | https://www.retroentreamigos.com/quien-hay-detras-de-nuestra-sintonia |               |
+| -         | 2012-10   | Retromúsica “Ocean Loaders” | https://www.retroentreamigos.com/retromusica-ocean-loaders |               |
+| 01x06     | 2012-11   | Episodio 6        | https://www.retroentreamigos.com/retro-entre-amigos-episodio-06 |               |
+| -         | 2012-11   | Retromúsica “Dune” | https://www.retroentreamigos.com/retromusica-dune |               |
+| -         | 2012-11   | Los audiocorreos llegan a nuestro Podcast | https://www.retroentreamigos.com/los-audiocorreos-llegan-a-nuestro-podcast |               |
+| 01x07     | 2012-12   | Episodio 7        | https://www.retroentreamigos.com/retro-entre-amigos-episodio-07 |               |
+| 01x08     | 2013-01   | Episodio 8        | https://www.retroentreamigos.com/retro-entre-amigos-episodio-08 |               |
+| -         | 2013-01   | Ganador del concurso – Episodio “08” | https://www.retroentreamigos.com/ganador-del-concurso-episodio-08 |               |
+| 01x09     | 2013-02   | Episodio 9        | https://www.retroentreamigos.com/retro-entre-amigos-episodio-09 |               |
+| -         | 2013-02   | Retromúsica “Especial Commodore” | https://www.retroentreamigos.com/retromusica-especial-commodore |               |
+| -         | 2013-02   | ¡Se acerca la RetroMadrid 2013! | https://www.retroentreamigos.com/se-acerca-la-retromadrid-2013 |               |
+| -         | 2013-02   | Retromúsica “RoboCop” | https://www.retroentreamigos.com/retromusica-robocop |               |
+| -         | 2013-02   | Retro con los amigos (1ª parte) | https://www.retroentreamigos.com/retro-con-los-amigos-1a-parte |               |
+| -         | 2013-02   | Retromúsica “Utopia” | https://www.retroentreamigos.com/retromusica-utopia |               |
+| -         | 2013-02   | Revista “Yo Tenía Un Juego” | https://www.retroentreamigos.com/revista-yo-tenia-un-juego |               |
+| -         | 2013-03   | El canal de nuestro amigo Ghostaleex | https://www.retroentreamigos.com/el-canal-de-nuestro-amigo-ghostaleex  |               |
+| 01x10     | 2013-03   | Episodio 10          | https://www.retroentreamigos.com/retro-entre-amigos-episodio-10 |               |
+| -         | 2013-03   | Nos vemos en RetroMadrid 2013 | https://www.retroentreamigos.com/nos-vemos-en-retromadrid-2013 |               |
+| -         | 2013-03   | Retromúsica “Tetris” | https://www.retroentreamigos.com/retromusica-tetris |               |
+| -         | 2013-03   | El poker en los videojuegos | https://www.retroentreamigos.com/el-poker-en-los-videojuegos |               |
+| -         | 2013-03   | Nuestro día en RetroMadrid 2013 | https://www.retroentreamigos.com/nuestro-dia-en-retromadrid-2013 |               |
+| -         | 2013-03   | Retromúsica “Ecco the Dolphin” | https://www.retroentreamigos.com/retromusica-ecco-the-dolphin |               |
+| -         | 2013-03   | Nosologamer Marzo 2013 | https://www.retroentreamigos.com/nosologamer-marzo-2013
+| -         | 2013-03   | Retro con los amigos (2ª parte) | https://www.retroentreamigos.com/retro-con-los-amigos-2a-parte
+| 01x11     | 2013-04   | Episodio 11            | https://www.retroentreamigos.com/retro-entre-amigos-episodio-11 |               |
+| -         | 2013-04   | Retromúsica “Rastan Saga” | https://www.retroentreamigos.com/retromusica-rastan-saga |               |
+| -         | 2013-04   | ¡Nos vemos en RetroMálaga 2013! | https://www.retroentreamigos.com/nos-vemos-en-retromalaga-2013 |               |
+| -         | 2013-04   | Ganador del concurso – Episodio “11” | https://www.retroentreamigos.com/ganador-del-concurso-episodio-11 |               |
+| -         | 2013-04   | Retromúsica “Super Hang-On” | https://www.retroentreamigos.com/retromusica-super-hang-on |               |
+| -         | 2013-04   | Lista de torneos para RetroMálaga 2013 | https://www.retroentreamigos.com/lista-de-torneos-para-retromalaga-2013 |               |
+| -         | 2013-04   | Retromúsica “Super Cars II” | https://www.retroentreamigos.com/retromusica-super-cars-ii |               |
+| -         | 2013-04   | Nosologamer Abril 2013 | https://www.retroentreamigos.com/nosologamer-abril-2013 |               |
+| -         | 2013-04   | Cartel para RetroMálaga 2013 | https://www.retroentreamigos.com/cartel-para-retromalaga-2013 |               |
+| 01x12     | 2013-05   | Episodio 12            | https://www.retroentreamigos.com/retro-entre-amigos-episodio-12 |               |
+| -         | 2013-05   | Crónica de RetroMálaga 2013 | https://www.retroentreamigos.com/cronica-de-retromalaga-2013 |               |
+| -         | 2013-05   | Crónicas del Campeonato Street Fighter II | https://www.retroentreamigos.com/cronicas-del-campeonato-street-fighter-ii |               |
+| -         | 2013-05   | Nosologamer Mayo 2013 | https://www.retroentreamigos.com/nosologamer-mayo-2013 |               |
+| -         | 2013-05   | Un paseo por RetroMálaga 2013 | https://www.retroentreamigos.com/un-paseo-por-retromalaga-2013 |               |
 
+[01x00]: https://www.retroentreamigos.com/retro-entre-amigos-episodio-00-piloto
 
 Temporada 2
 ------
 | Episodio  |  Fecha    | Título        | Enlace Web    | Enlace Ivoox  |
 |-----------|-----------|---------------|---------------|---------------|
-| 02x01     | 2013-06   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-2x01 |               |
+| 02x01     | 2013-06   | Episodio 2x01 | https://www.retroentreamigos.com/retro-entre-amigos-episodio-2x01 |               |
 | 02x02     | 2013-07   |               | https://www.retroentreamigos.com/retro-entre-amigos-episodio-2x02 |               |
 | 02x03     | 2013-08   |               |               |               |
 | 02x04     | 2013-09   |               |               |               |
