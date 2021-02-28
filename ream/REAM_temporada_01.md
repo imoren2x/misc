@@ -93,12 +93,12 @@ RetroEntreAmigos 01x02 - La piratería (2012-07, 1h 16m 27.403s)
 
 URL original: https://www.ivoox.com/1314242
 
-Es día 1 de Julio y tenemos nuevo podcast de “Retroentreamigos”. Nosotros no vamos a parar durante el Verano, de modo que si tenéis un rato libre en la playa o piscina… lo compartimos con vosotros.
+Es día 1 de julio y tenemos nuevo podcast de “Retroentreamigos”. Nosotros no vamos a parar durante el verano, de modo que si tenéis un rato libre en la playa o piscina… lo compartimos con vosotros.
 
 En el programa de hoy, haremos un pequeño especial sobre la piratería. Contaremos nuestras historias relacionadas con el asunto (ahora que han prescrito) y tocaremos en detalle asuntos como el “blue boxing”.
 También tenemos nuevamente l a sección “misterios de 8 bits y menos” con McLeod Ideafix como invitado dónde nos hablará de colores en pantalla y “colour clash” (ese enemigo).
 
-Sigue en pié en concurso “la melodía misteriosa” donde teneis opción a ganar un “pack” de productos de nuestros colaboradores B-move www.b-move.com
+Sigue en pie en concurso “la melodía misteriosa” donde teneis opción a ganar un “pack” de productos de nuestros colaboradores B-move www.b-move.com
 
 No olvidéis que nos tenéis disponibles también, con contenidos adicionales en www.retroentreamigos.com.
 

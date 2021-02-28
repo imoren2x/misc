@@ -27,7 +27,7 @@ Juegos de la NES
 |     | Kirby's adventure                       | 19   | Platforms      |                       |                       |                       |
 |     | Journey to Silius                       | 1990 | Platforms      | Sunsoft               | Sunsoft               |                       |
 |     | Paperboy                                | 1988 | Platforms      | Atari                 | Mindscape             |                       |
-|     | Metroid                                 | 1987 | Platforms      | Nintendo              | Nintendo              |                       |
+|     | Metroid                                 | 1986 | Platforms      | Nintendo              | Nintendo              |                       |
 |     | Mega Man                                | 1987 | Platforms      | Capcom                | Capcom                |                       |
 |     | Mega Man 2                              | 1989 | Platforms      | Capcom                | Capcom                |                       |
 |     | Mega Man 3                              | 1990 | Platforms      | Capcom                | Capcom                |                       |
@@ -88,7 +88,7 @@ Juegos de la NES
 |     | Blades of Steel                         | 1988 | Deportes      | Konami                | Konami                |                       |
 |     | California Games                        | 1989 | Deportes      | Epyx                  | Milton Bradley        |                       |
 |     | Double Dribble                          | 1987 | Deportes      | Konami                | Konami                |                       |
-|     | Excite Bike                             | 19   | Deportes      |                       |                       |                       |
+|     | Excitebike                              | 1986 | Deportes      |                       |                       |                       |
 |     | High Speed                              | 19   | Deportes      |                       |                       |                       |
 |     | Hoops                                   | 19   | Deportes      |                       |                       |                       |
 |     | Ice Hockey                              | 1988 | Deportes      | Nintendo              | Nintendo              |                       |
