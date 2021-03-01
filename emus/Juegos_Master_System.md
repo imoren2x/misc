@@ -130,3 +130,5 @@ Master System
 * [Master System 1](http://retromaquinitas.com/master-system-i)
 * [Anexo:Videojuegos para Sega Master System](https://es.wikipedia.org/wiki/Anexo:Videojuegos_para_Sega_Master_System)
 * [Categoría:Videojuegos para Sega Master System](https://es.wikipedia.org/wiki/Categor%C3%ADa:Videojuegos_para_Sega_Master_System)
+
+* Top 150 best Sega Master System games in chronological order

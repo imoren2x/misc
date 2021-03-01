@@ -23,6 +23,28 @@ YouTube Channels for Arcades
 * [AbandonWiki - Death Rally](https://www.abandonsocios.org/wiki/Death_Rally)
 * Google - Bally Road runner arcade game
 
+YouTubers
+------
+* Sega Lord X
+* TR Old School Gamer
+* Tinnitis Channel
+* Video Games Gems Channel
+* Oneretrotip
+* Virtual Gaming Library
+* RetroGame Mechanics explained
+* Nostalgia Nerd
+* Virtual Gaming Library (VGL)
+
+* Spinecard
+* Slobulus
+* Tuber Viejuner
+* JARM
+* Juanje Juega
+* La poción roja
+* Pixel2Pixel
+* Araubi
+* 
+
 MAME table year and games
 ======
 
