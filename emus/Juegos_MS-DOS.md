@@ -110,3 +110,7 @@ Juegos MS-DOS
 | Starcraft | - |
 | Colonization | - |
 | 3 Gobblins | - |
+
+* [Xataka - Los 39 mejores juegos MS-DOS](https://www.xataka.com/videojuegos/los-28-mejores-juegos-de-la-epoca-ms-dos-para-jugar-ahora-y-gratis-en-el-navegador)
+* [Archive.org - Ms-DOS Tetris 1986](https://www.archive.org/details/msdos_Tetris_1986)
+* [YouTube - #321 Out Run passionnément...](https://www.youtube.com/watch?v=vYgxa8lpxgs)

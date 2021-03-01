@@ -106,3 +106,15 @@ References
 * [Sega Retro](https://segaretro.org/Main_Page)
 * [175 Juegos Clásicos de SEGA MEGA DRIVE /SEGA GENESIS en 35 Min.](https://www.youtube.com/watch?v=549bqpol920)
 * [50 Underrated Sega Genesis Games](https://www.denofgeek.com/games/underrated-sega-genesis-games/)
+* [Sega Genesis - Games database](https://www.gamesdatabase.org/list.aspx?system=sega_genesis)
+* [Sega Retro - Todo Sega](https://www.segaretro.org/Todo_Sega)
+* [Revista Todo Sega Scan](https://retro-descargas.blogspot.com/2019/05/revista-todo-sega.html)
+* [Sega Retro - Todo Sega n°1](https://segaretro.org/File:TodoSega_ES_01.pdf)
+
+Videos and Channels
+------
+* Top 10 Mega Drive - Puzzle: https://www.segasaturno.com/portal/top-10-megadrive-puzle-vt9227.html
+* Block Out: https://en.wikipedia.org/wiki/Blockout
+* Block Out 2: https://www.blockout.net/blockout2/
+* [YouTube - Top 25 best Sega Genesis racing games](https://youtube.com/watch?v=rViPKgYGrZo)
+* [Youtube - RetroEuskal 2018: «Taller de Programación en lenguage C para Sega Mega Drive» con Pocket_Lucho](https://youtube.com/watch?v=opsPyEFcmpw)

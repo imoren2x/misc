@@ -58,3 +58,8 @@ URL: www.ComputerEmuZone.com
 * Camelot Warriors
 * Match Day II
 * Desperado (Topo Soft, 1987)
+
+* [YouTube - Reidrac is CODING 18: MSX, catch-up & font effect](https://www.youtube.com/watch?v=NUWcxoanUmM)
+* Google - MSX 2
+* [MSX.org - Memory Mapper](https://www.msx.org/wiki/Memory_Mapper)
+* [Cunoticias.com - ¿Te acuerdas del ordenador MSX-2 Sony HB-F9S](https://www.cunoticias.com/retro/te-acuerdas-del-ordenador-msx2-sony-hb-f9s.php)

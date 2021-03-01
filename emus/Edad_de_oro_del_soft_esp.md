@@ -5,6 +5,7 @@ Dinamic Software
 1984:
  * Saimazoon
  * Babaliba
+ * Wikipedia: https://es.wikipedia.org/wiki/Dinamic_Software
 
 1985
  * Abu Simbel Profanation
@@ -47,6 +48,8 @@ Topo Soft
  * Spirits
  * Titanic
  * Viaje al centro de la Tierra
+ * DeVuego Topo Soft: https://www.devuego.es/bd/festudio/topo-soft
+ 
 
 Zigurat / Made in Spain
  * El poder oscuro

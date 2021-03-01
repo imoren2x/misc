@@ -1,25 +1,30 @@
 Juegos Arcade
 ======
 
+References
+------
+* Categories: videogames by year: https://en.wikipedia.org/wiki/Category:1947_video_games
+* [Video games in 1975 - Wikipedia](https://www.google.com/search?q=video+games+1975&oq=video+games+1975&aqs=chrome..69i57.2765j0j1&sourceid=chrome&ie=UTF-8)
+
 | Year |          Title                  |  Category  |        Notes            |
 |------|---------------------------------|------------|-------------------------|
 | 1958 | Tennis for two                  |            |                         |
-| 1962 | Marienbad                       |            |                         |
-| 1962 | Spacewar                        |            |                         |
-| 1964 | The Sumerian Game               | Rol        |                         |
+| 1962 | Marienbad                       |            | Made by Polish engineer Witold Podgórski in Elwro using computer Odra 1003 |
+| 1962 | Spacewar!                       |            |                         |
+| 1964 | The Sumerian Game               | Rol        | Text-based strategy game |
 | 1968 | Civil War                       |            |                         |
-| 1968 | Hamurabi                        |            |                         |
-| 1969 | Lunar Lander                    |            |                         |
-| 1969 | Space Travel                    |            | Dev. by Ken Thompson    |
-| 1970 | Highnoon                        |            | Text Adventure          |
+| 1968 | Hamurabi                        |            | Text-based strategy 1978 (BASIC) |
+| 1969 | Lunar Lander                    |            | PDP-8                   |
+| 1969 | Space Travel                    |            | Dev. by Ken Thompson in a PDP-7 |
+| 1970 | Highnoon                        |            | Text Adventure about Western film High Noon |
 | 1971 | Baseball                        |            |                         |
-| 1971 | Computer Space                  |            | ~ Spacewar!             |
-| 1971 | Galaxy Game                     |            |                         |
+| 1971 | Computer Space                  |            | ~ Spacewar! by Syzygy Engineering |
+| 1971 | Galaxy Game                     |            | PDP-11                  |
 | 1971 | The Oregon Trail                |            |                         |
 | 1971 | Star Trek                       |            |                         |
-| 1972 | Empire                          |            |                         |
-| 1972 | Magnavox Odyssey                |            |                         |
-| 1972 | Pong                            |            |                         |
+| 1972 | Empire                          |            | 4X war game by Peter Langston, PDP-11/45 |
+| 1972 | Magnavox Odyssey                |            | 28 games                |
+| 1972 | Pong                            |            | Oustanding success by Atari |
 | 1973 | Empire (PLATO)                  |            |                         |
 | 1973 | Gotcha                          |            | Atari                   |
 | 1973 | Hunt the Wumpus                 |            |                         |
@@ -30,11 +35,11 @@ Juegos Arcade
 | 1973 | Trek'73                         |            |                         |
 | 1974 | Gran Trak 10                    |            | Racing                  |
 | 1974 | Maze War                        |            | 3-D                     |
-| 1974 | Clean Sweep                     |            |                         |
+| 1974 | Clean Sweep                     |            | by Ramtek               |
 | 1974 | Ping-O-Tronic                   |            | Zanussi                 |
 | 1974 | Qwak!                           |            |                         |
 | 1974 | Rebound                         |            |                         |
-| 1974 | Spasim                          |            |                         |
+| 1974 | Spasim                          |            | Space Simulation        |
 | 1974 | Speed Race                      |            |                         |
 | 1974 | Star Trader                     |            |                         |
 | 1974 | Tank                            |            |                         |
@@ -139,6 +144,7 @@ Juegos Arcade
 | 1977 | Video Olympics                  |            |                         |
 | 1977 | Video Pinball series            |            |                         |
 | 1977 | Zork                            |            |                         |
+| 1978 | Book: 101 BASIC Computer Games  |            |  by David H. Ahl        |
 | 1978 | 3-D Docking Mission             |            |                         |
 | 1978 | Adventureland                   |            |                         |
 | 1978 | Air Raid                        |            |                         |
@@ -569,3 +575,11 @@ Juegos Arcade
 | 1981 | Zarzon                          |            |                         |
 | 1981 | Zork II                         |            |                         |
 | 1981 | Zossed in Space                 |            |                         |
+
+Videos
+------
+* [Empire! Space Battle from Cyber1.org](https://www.youtube.com/watch?v=Qodf2AjrEQo&feature=youtu.be)
+
+Refs
+------
+* [101 BASIC Computer Games by David H. Ahl (1978)](https://www.atariarchives.org/basicgames)

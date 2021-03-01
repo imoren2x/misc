@@ -314,3 +314,8 @@ References
 * [List of Super Nintendo Entertainment System games](https://en.wikipedia.org/wiki/List_of_Super_Nintendo_Entertainment_System_games)
 * [Categoría:Videojuegos para Super Nintendo](https://es.wikipedia.org/wiki/Categor%C3%ADa:Videojuegos_para_Super_Nintendo)
 * [SNESguide.com](https://snesguide.com)
+
+Game URLs
+------
+* [Super Mario World - StrategyWiki](https://strategywiki.org/wiki/Super_Mario_World)
+* [Super Mario World - The Nintendo Wiki](https://nintendo.fandom.com/wiki/Super_Mario_World)

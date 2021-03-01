@@ -316,3 +316,12 @@ References
 * [Kaiser land 77 - Nintendo Entertainment System](https://www.kaiserland77.com/wikines77/index.php/P%C3%A1gina_principal)
 * [Kaiser land 77 - Manuales de NES en español](https://www.kaiserland77.com/wikines77/index.php/Manuales_de_NES_en_Espa%C3%B1ol)
 * [Devuego - Club Nintendo](https://www.devuego.es/pres/revistas/club-nintendo/?epoca=primera)
+
+Manuals
+------
+* Nintendo Excitebike: https://manuall.co.uk/nintendo-nes-excitebike/
+
+Videos
+------
+* [YouTube - Ways to play NES Light Gun Games on a Modern TV](https://youtube.com/watch?v=qCZ-Z-OZFUs)
+* [YouTube - Building Nintendo Games by Erik Onarheim (@erikonarheim)](https://youtube.com/watch?v=mnUXYl5B9Qs)

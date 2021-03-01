@@ -75,7 +75,7 @@ Juegos Mega Drive Hobby Consolas 1, octubre 1991
 |  65 | Sword of Vermilion                      | 19   |                |            |
 |  66 | Thunder Force III                       | 19   |                |            |
 |  67 | Truxton                                 | 19   |                |            |
-|  68 | Twin Handle                             | 19   |                |            |
+|  68 | Twin Hawk                               | 19   |                |            |
 |  69 | Wonderboy III                           | 19   |                |            |
 |  70 | World Cup Italia                        | 19   |                |            |
 |  71 | Zany Golf                               | 19   |                |            |
