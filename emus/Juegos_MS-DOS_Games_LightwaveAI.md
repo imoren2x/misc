@@ -46,8 +46,6 @@ URL: [101 MS-DOS Games (1978-1997)](https://www.youtube.com/watch?v=yNcH2PuiHw8)
 |   1 | 1991 | Nibbles                      |                       |          |           |
 |   1 | 1991 | Populous II                  |                       |          |           |
 |   1 | 1991 | Scorched Earth               |                       |          |           |
-|-----|------|------------------------------|-----------------------|----------|-----------|
-
 
 
 101 More Ms-DOS Games (1981-1998) by Lightwave AI
@@ -105,14 +103,12 @@ URL: [101 More Ms-DOS Games (1981-1998) by Lightwave AI](https://www.youtube.com
 |   1 | 1993 | Bio Menace                   |                       |          |           |
 |   1 | 1992 |                              |                       |          |           |
 |   1 | 1993 |                              |                       |          |           |
-|-----|------|------------------------------|-----------------------|----------|-----------|
 
 
 Another 101 Ms-DOS Games (1980-1997) by Lightwave AI
 ------
 
 URL: [Another 101 Ms-DOS Games (1980-1997) by Lightwave AI](https://youtu.be/gOITFJ3kFXk)
-
 
 | No  | Year | Title                        | Company               | Category | Notes     |
 |-----|------|------------------------------|-----------------------|----------|-----------|
@@ -164,4 +160,3 @@ URL: [Another 101 Ms-DOS Games (1980-1997) by Lightwave AI](https://youtu.be/gOI
 |   1 | 1991 | Ballistix                    |                       |          |           |
 |   1 | 1991 | Blues Brothers               |                       |          |           |
 |   1 | 1991 |                              |                       |          |           |
-|-----|------|------------------------------|-----------------------|----------|-----------|

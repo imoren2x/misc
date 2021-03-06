@@ -118,3 +118,7 @@ Videos and Channels
 * Block Out 2: https://www.blockout.net/blockout2/
 * [YouTube - Top 25 best Sega Genesis racing games](https://youtube.com/watch?v=rViPKgYGrZo)
 * [Youtube - RetroEuskal 2018: «Taller de Programación en lenguage C para Sega Mega Drive» con Pocket_Lucho](https://youtube.com/watch?v=opsPyEFcmpw)
+
+Mega Drive visual effects
+------
+* [Software Zooming - Tech DEMO (SEGA Genesis)](https://www.youtube.com/watch?v=xQlJIsufV94)

@@ -3,52 +3,51 @@ Juegos MS-DOS
 
 | Name                  |
 |-----------------------|
-| Aventura Gráfica |
-| Plataforma |
-| Estrategia |
-| Coches, carreras |
-| Simulación |
-| Naves, espacio |
-|-----------------|
+| Aventura Gráfica      |
+| Plataforma            |
+| Estrategia            |
+| Coches, carreras      |
+| Simulación            |
+| Naves, espacio        |
 
 | Name                  |  Year  |
 |-----------------------|--------|
-| King’s Quest | 1983 |
+| King’s Quest          | 1983 |
 | The Hitchhiker Guide to the Galaxy | 1984 |
 | Where is Carmen Sandiego? | 1985 |
-| Tetris   | 1985 |
-| Alter Ego | 1986 |
-| Starfight | 1986 |
-| Leisure Suit Larry | 1987 |
-| Maniac Mansion | 1987 |
-| Budokan  | 1989 |
-| Populous | 1989 |
-| Day of the Tentacle | 1989 |
+| Tetris                | 1985 |
+| Alter Ego             | 1986 |
+| Starfight             | 1986 |
+| Leisure Suit Larry    | 1987 |
+| Maniac Mansion        | 1987 |
+| Budokan               | 1989 |
+| Populous              | 1989 |
+| Day of the Tentacle   | 1989 |
 | Indiana Jones and the Fate of Atlantis | - |
 | Indiana Jones and the Last Crusader | 1990 |
-| Syndicate | - |
+| Syndicate             | - |
 | The Secret of Monkey Island | 19-- |
-| Prince of Persia | 1989 |
-| Full Throtle | 1995 |
-| SimCity | - |
-| Civilization | |
-| Leisure Suit Larry |  |
-| DIG | - |
+| Prince of Persia      | 1989 |
+| Full Throtle          | 1995 |
+| SimCity               | - |
+| Civilization          | |
+| Leisure Suit Larry    |  |
+| DIG                   | - |
 | The Incredible Machine | - |
 | Touché, the fifth Musketeer | 1995 |
-| Sierra Ultima | - |
-| Silent Service | - |
-| Rocketeer | - |
+| Sierra Ultima         | - |
+| Silent Service        | - |
+| Rocketeer             | - |
 | The Secret Weapons of the Luftwaffe | - |
-| Green Fandango | - |
-| Wizardry | - |
-| Marbble Madness | - |
-| Space Quest | - |
-| Star Quest | - |
-| Warcraft | - |
-| Grand Prix | - |
-| Wing Commander | - |
-| Steel Panther | - |
+| Green Fandango        | - |
+| Wizardry              | - |
+| Marbble Madness       | - |
+| Space Quest           | - |
+| Star Quest            | - |
+| Warcraft              | - |
+| Grand Prix            | - |
+| Wing Commander        | - |
+| Steel Panther         | - |
 | Populous | - |
 | Simon the Sorcerer | - |
 | PC Fútbol 5.0 | - |

@@ -1,6 +1,9 @@
 Edad de oro del Soft español
 ======
 
+* Indie Retro News: https://www.IndieRetroNews.com
+* Markdown Cheat Sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 Dinamic Software
 1984:
  * Saimazoon

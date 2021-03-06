@@ -4,40 +4,40 @@ TuberViejuner: Top 100 de los mejores juegos de Mega Drive de la historia según
 URL: https://www.youtube.com/playlist?list=PL6Qxbx3HO7GzbKf6L088Py20CTD0BWrGw
 
 
-| No  | Title              | Year | Notes      |
-|-----|--------------------|------|------------|
-| 100 | Two Crude Dudes    | 19 |       |
-|  99 | Samurai Shodown    | 19 |       |
-|  98 | Megaman: The Willy wars | 19 |       |
-|  97 | James Pond 2: codename Robocod | 19 |       |
-|  96 | Panorama Cotton (Japan) | 19 |       |
-|  95 | Mortal Kombat      | 19 |       |
-|  94 | The Lost World: Jurassic Park | 19 |       |
-|  93 | Jungle Strike      | 19 |       |
-|  92 | Blades of vengeance | 19 |       |
-|  91 | Zombies ate my neighbours | 19 |       |
-|  90 | Road Rash          | 19 |       |
-|  89 | Zero Wing          | 19 |       |
-|  88 | Ultimate Mortal Kombat | 19 |       |
-|  87 | Super Skidmarks    | 19 |       |
-|  86 | Sunset Riders      | 19 |       |
-|  85 | Columns            | 19 |       |
-|  84 | Alien 3            | 19 |       |
-|  83 | Turrican           | 19 |       |
-|  82 | Theme Park         | 19 |       |
-|  81 | Desert Strike      | 19 |       |
-|  80 | Ayrton Senna's Super Monaco GP II | 19 |       |
-|  79 | Psycho Pinball     | 19 |       |
-|  78 | NBA Jam            | 19 |       |
-|  77 | Wonder Boy III     | 19 |       |
-|  76 | Truxton            | 19 |       |
-|  75 | Toki               | 19 |       |
-|  74 | Mega Bomberman     | 19 |       |
+| No  | Title                               | Year | Notes      |
+|-----|-------------------------------------|------|------------|
+| 100 | Two Crude Dudes                     | 19   |       |
+|  99 | Samurai Shodown                     | 19   |       |
+|  98 | Megaman: The Willy wars             | 19   |       |
+|  97 | James Pond 2: codename Robocod      | 19   |       |
+|  96 | Panorama Cotton (Japan)             | 19   |       |
+|  95 | Mortal Kombat                       | 19   |       |
+|  94 | The Lost World: Jurassic Park       | 19   |       |
+|  93 | Jungle Strike                       | 19   |       |
+|  92 | Blades of vengeance                 | 19   |       |
+|  91 | Zombies ate my neighbours           | 19   |       |
+|  90 | Road Rash                           | 19   |       |
+|  89 | Zero Wing                           | 19   |       |
+|  88 | Ultimate Mortal Kombat              | 19   |       |
+|  87 | Super Skidmarks                     | 19   |       |
+|  86 | Sunset Riders                       | 19   |       |
+|  85 | Columns                             | 19   |       |
+|  84 | Alien 3                             | 19   |       |
+|  83 | Turrican                            | 19   |       |
+|  82 | Theme Park                          | 19   |       |
+|  81 | Desert Strike                       | 19   |       |
+|  80 | Ayrton Senna's Super Monaco GP II   | 19   |       |
+|  79 | Psycho Pinball                      | 19 |       |
+|  78 | NBA Jam                             | 19 |       |
+|  77 | Wonder Boy III                      | 19 |       |
+|  76 | Truxton                             | 19 |       |
+|  75 | Toki                                | 19 |       |
+|  74 | Mega Bomberman                      | 19 |       |
 |  73 | Toe Jam & Earl in Panic on Funkotron | 19 |       |
-|  72 | Golden Axe 3       | 19 |       |
-|  71 | Taz-mania          | 19 |       |
-|  70 | Strider            | 19 |       |
-|  69 | Pulseman           | 19 |       |
+|  72 | Golden Axe 3                        | 19 |       |
+|  71 | Taz-mania                           | 19 |       |
+|  70 | Strider                             | 19 |       |
+|  69 | Pulseman                            | 19 |       |
 |  68 | Mighty Morphing Power Rangers the movie | 19 |       |
 |  67 | Dune 2: Battle for Arrakis | 19 |       |
 |  66 | International Superstars Soccer Deluxe | 19 |       |
@@ -106,4 +106,3 @@ URL: https://www.youtube.com/playlist?list=PL6Qxbx3HO7GzbKf6L088Py20CTD0BWrGw
 |   3 | Sonic 2            | 19 |       |
 |   2 | Streets of Rage 2  | 19 |       |
 |   1 | Sonic the hedgehog | 19 |       |
-|------------------------|

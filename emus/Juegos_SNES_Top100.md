@@ -106,4 +106,3 @@ URL: https://www.youtube.com/playlist?list=PL6Qxbx3HO7GzQlgDX7uz6UbhyEqkA_hAl
 |   3 | Super Mario Kart            | 19 |       |
 |   2 | The Legend of Zelda         | 19 |       |
 |   1 | Super Mario World           | 19 |       |
-|------------------------|

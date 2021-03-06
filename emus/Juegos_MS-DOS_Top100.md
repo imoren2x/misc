@@ -106,4 +106,3 @@ URL: https://www.youtube.com/playlist?list=PL6Qxbx3HO7GzbKf6L088Py20CTD0BWrGw
 |  03 | Duke Nukem 3D    | 19 |       |
 |  02 | Doom    | 19 |       |
 |  01 | The secret of Monkey Island    | 19 |       |
-|------------------------|
