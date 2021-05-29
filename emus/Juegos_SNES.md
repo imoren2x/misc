@@ -214,6 +214,36 @@ Juegos de la SNES
 |     | Utopia: The Creation of a Nation        | 1993 | Simulación     | Jaleco                | Jaleco                |                       |
 |     | Aero-biz                                | 1993 | Simulación     | Koei                  | Koei                  |                       |
 
+Juegos VHS Super Nintendo El cerebro de la bestia
+------
+
+    Super Mario World
+    F-Zero
+    Super Castlevania IV
+    UN Squadron
+    Super Tennis
+    Super Soccer (Super Football)
+    WWF
+    Super Off-Road
+    The Addams Family
+    The Legend of Zelda - A link to the past
+    Super R-Type
+    Lemmings
+    Sim City
+    Rival Turf
+    Chessmaster
+    Paperboy 2
+    Blazing Skies
+    Hole in one golf
+    Aero Wings
+    Joe 'n Mac
+    Super Adventure Island
+    Super Ghouls 'n Ghosts
+    Act Raiser
+    Smash TV
+    Final Fight
+    Robocop 3
+
 
 * The Irem Skins Game 92
 * Monopoly 92
@@ -314,6 +344,7 @@ References
 * [List of Super Nintendo Entertainment System games](https://en.wikipedia.org/wiki/List_of_Super_Nintendo_Entertainment_System_games)
 * [Categoría:Videojuegos para Super Nintendo](https://es.wikipedia.org/wiki/Categor%C3%ADa:Videojuegos_para_Super_Nintendo)
 * [SNESguide.com](https://snesguide.com)
+* [RaphNet.net - 2 NES/SNES à USB](https://www.raphnet.net/electronique/2nes2usb/index.php)
 
 Game URLs
 ------

@@ -97,6 +97,80 @@ Juegos de la Mega Drive (PAL España)
 |   5 | The Chaos Engine                        | 19   | Strategy/Sim   |                       |                       |                       |
 |   6 | General Chaos                           | 19   | Strategy/Sim   |                       |                       |                       |
 
+
+Juegos de VHS Sega La ley del más fuerte
+------
+
+    X-Men
+    Tecmo World Soccer
+    Another World / Out of this World
+    Tiny Toons Adventures
+    Global Gladiators
+    TMNT: Hyperstone Heist
+    Muhammed Ali
+    Sunset Riders
+    Battletoads
+    Fatal Fury
+    James Bond 007
+    Cool Spot
+    Flashback
+
+Otros juegos a considerar
+------
+
+    Probotector
+    Castlevania
+    Landstalker
+    Snow Bros
+    Bare Knuckle III
+    Story of Thor
+    Light Crusader
+    Mega Turrican y Atomic Runner
+    Side Pocket
+    ATP Tour
+    Davis Cup
+    Street Smart
+    California Games
+    Shaq Fu, Alien 3 y Batman Forever
+    Sonic 2, ESWAT y Streets of Rage 2
+    Global gladiators
+    Fantasy star
+    MegaMan Willy Wars
+    RockMan Mega World
+    Sparkster
+    Batman
+    Batman Returns
+    Alisia Dragoon
+    Alien 3
+    Strider
+    Mercs
+    Golden Axe
+    Ghouls'n Ghosts
+    Thunder Force III
+    Toki
+    Quackshot
+    Wonder Boy
+    Outrun
+    Super Monaco GP
+    Castle Of Illusion
+    Robocod
+    Vectorman 1 y 2
+    New Zealand Story
+    Comix zone
+    Aladdin
+    Rocket Knight Adventures
+    Dynamite heady
+    Gunstar heroes
+    Flicky
+    Wonderboy
+    Wonderboy 6 (Monster World 4) solo salio en Japones, pero hay una traduccion completa muy buena al Ingles
+    Phantasy Star (2, 3 y 4)
+    Cool Spot
+    Chiki Chiki Boys
+    Shining Force 1 y 2
+    TECMO CUP SOCCER
+
+
 References
 ------
 * [Sega Mega Drive / Genesis](https://en.wikipedia.org/wiki/Sega_Genesis)
@@ -118,6 +192,9 @@ Videos and Channels
 * Block Out 2: https://www.blockout.net/blockout2/
 * [YouTube - Top 25 best Sega Genesis racing games](https://youtube.com/watch?v=rViPKgYGrZo)
 * [Youtube - RetroEuskal 2018: «Taller de Programación en lenguage C para Sega Mega Drive» con Pocket_Lucho](https://youtube.com/watch?v=opsPyEFcmpw)
+* [The SEGA 32x + Sega CD 32x Project All 40 32x Games (US/EU/JP/BR), VGL](https://www.youtube.com/watch?v=pzG-OAdbpC8)
+* funstockretro.co.uk: The top racing games for Sega Mega Drive (Sega Genesis)
+* [Top 25 best Sega Genesis racing games](https://www.youtube.com/watch?v=rViPKgYGrZo)
 
 Mega Drive visual effects
 ------

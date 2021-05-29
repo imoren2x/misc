@@ -45,6 +45,13 @@ Club Nintendo Vol. 1 n° 1 (1989-08)
 Club Nintendo Vol. 1 n° 2 (1989-10)
 ------
 
+Castlevania 86
+Rad Racer 87
+Mega Man 87
+RoboWarrior 87
+Xevious 84
+
+
 ### Publicidad
 | Título                | Año  |
 |-----------------------|------|
@@ -60,3 +67,21 @@ Club Nintendo Vol. 1 n° 2 (1989-10)
 | Metroid               | 1986 |
 | RoboWarrior           | 1987 |
 | The Legend of Zelda   | 1986 |
+
+Club Nintendo Vol. 1 n° 3 (1989-12)
+------
+Wizard & Warriors 87
+Life Force 86
+Gun Smoke
+Tiger Heli
+Metal Gear
+Cobra Triangle
+Double Dribble 87
+
+Club Nintendo Vol. 1 n° 4 (1990-)
+------
+Metal Gear
+Track & Field II
+Donkey Kong Classics
+Lee Trevino's Fighting Golf
+Rygar
