@@ -3,19 +3,19 @@ RetroEntreAmigos: temporada 3
 
 | Episodio |  Fecha  |    Duración    |        Sección 2               |      Sección 3           |       Sección 4      |       Sección 5       |       Sección 6       |       Sección 7       | Sección 8             | Sección 9 |
 |----------|---------|----------------|--------------------------------|--------------------------|----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------|
-| 03x01    | 2014-08 | 2h 18m 58.260s | ¿En qué mundo de videojuegos te comprarías un chalet? | Abuelo Cebolleta | Juegos dificilísimos | Juego: Spy Vs. Spy | Final     |           |           |                       |           |
+| 03x01    | 2014-08 | 2h 18m 58.260s | ¿En qué mundo de videojuegos te comprarías un chalet? | Abuelo Cebolleta | Juegos dificilísimos | Juego: Spy Vs. Spy | Final |   |                       |                       |           |
 | 03x02    | 2014-09 | 1h 39m 52.150s | Manías raras al jugar          | Ordenadores de 8 y 16 bits en educación | Chemamstrad | Juego: Hired Guns |  |  |  |  |  | 
 | 2014-rm  | 2014-10 |                |                                |                          |                      |                       |                       |                       |                       |           |
-| 03x03    | 2014-11 | 1h 48m 40.216s | Correo: Koyuki                 | Chemamstrad              | Juego: Penguin Adventure | McLeod            |                       |                       |                       |           |
-| 03x04    | 2014-12 | 2h 52m 12.003s | Tararea una canción            | Concurso: un, dos, tres  | Malos juegos que te gustan | Navidad y videojuegos | McLeod          | Juego: Delta          | Correo                | Música    |
-| 03x05    | 2015-01 | 2h 34m 12.003s | Personaje odioso de los VJ     | Las sagas                | Juego: Metal Gear Solid | McLeod             | Qué le dirías a ti mismo del pasado |         |                       |           |
-| 03x06    | 2015-02 | 2h 21m 43.589s | Qué otras aficiones tienes     | Retro-especulación       | Juego: Halls of the things | Intro de los juegos | Tertulia final    |                       |                       |           |
-| 03x07    | 2015-03 | 2h 46m 00.359s | Qué partido político harías    | Jugar sin instrucciones  | Intrusismo           | McLeod                | Juego: Eternal        | Reinsertando al Yayo-gamer | Final            |           |
+| 03x03    | 2014-11 | 1h 48m 40.216s | Correo: Koyuki                 | Chemamstrad              | J: Penguin Adventure | McLeod                |                       |                       |                       |           |
+| 03x04    | 2014-12 | 2h 52m 12.003s | Tararea una canción            | Concurso: un, dos, tres  | Malos juegos que te gustan | Navidad y videojuegos | McLeod          | J: Delta              | Correo                | Música    |
+| 03x05    | 2015-01 | 2h 34m 12.003s | Personaje odioso de los VJ     | Las sagas                | J: Metal Gear Solid  | McLeod                | Qué le dirías a ti mismo del pasado |         |                       |           |
+| 03x06    | 2015-02 | 2h 21m 43.589s | Qué otras aficiones tienes     | Retro-especulación       | J: Halls of the things | Intro de los juegos | Tertulia final    |                       |                       |           |
+| 03x07    | 2015-03 | 2h 46m 00.359s | Qué partido político harías    | Jugar sin instrucciones  | Intrusismo           | McLeod                | J: Eternal            | Reinsertando al Yayo-gamer | Final            |           |
 | 03x08    | 2015-04 | 3h 01m 28.594s | Qué videojuego crearías        | Retro y nuevo            | Reinsertando al Yayo-gamer | McLeod          | Tertulia final        |                       |                       |           |
 | 03x09    | 2015-05 | 2h 58m 48.699s | Post Retro Weekend mini 2015   | Reinsertando al Yayo-gamer | McLeod             | Final                 |                       |                       |                       |           |
-| 03x10    | 2015-06 | 2h 28m 46.903s | Correo del oyente              | Fanboys                  | Os traigo un juego: Kick-master | Reinsertando al Yayo-gamer | Final |                       |                       |           |
-| 03x11    | 2015-07 | 3h 11m  3.941s | ¿Qué odías deste mundillo?     | Correos de los oyentes   | Reinsertando al Yayo-gamer |                 | Juego: Star-Soldier   | Cartas en el tiempo   | McLeod                | Final     |
-| 03x12    | 2015-08 | 3h 15m 49.224s | ¿A quién desenterrarías para tener una charla con él? | Especial aniversario | Pero éste quién es: Chemamstrad | Correos de los oyentes | Tertulia: | McLeod | Juego | Reinsertando al Yayo-gamer | Cartas en el tiempo | Final |
+| 03x10    | 2015-06 | 2h 28m 46.903s | Correo del oyente              | Fanboys                  | J: Kick-master       | Reinsertando al Yayo-gamer | Final            |                       |                       |           |
+| 03x11    | 2015-07 | 3h 11m  3.941s | ¿Qué odías deste mundillo?     | Correos de los oyentes   | Reinsertando al Yayo-gamer |                 | J: Star-Soldier       | Cartas en el tiempo   | McLeod                | Final     |
+| 03x12    | 2015-08 | 3h 15m 49.224s | ¿A quién desenterrarías para tener una charla con él? | Especial aniversario | Pero éste quién es: Chemamstrad | Correos oyentes | Tertulia: | McLeod | Juego | Reinsertando al Yayo-gamer | Cartas en el tiempo | Final |
 
 ______
 
@@ -29,8 +29,24 @@ RetroEntreAmigos 03x01 - Abuelo Cebolleta (2014-08, 2h 18m 58.260s)
 5. Tertulia: juegos dificilísimos (48m 16.016s -- 1h 23m 24.794s, 35m 8.778s, https://www.ivoox.com/33877098)
 6. Os traigo un juego: Spy Vs Spy (1h 23m 24.794s -- 1h 42m 46.076s, 19m 21.282s, https://www.ivoox.com/33877135)
 7. Tertulia: ¿qué no habéis hecho por la vagancia? (1h 42m 46.076s -- 2h 18m 58.260s, 36m 12.184s, https://www.ivoox.com/33877151)
+   * Historia del Cebolla y la PlayStation.
+   * (In)utilidades: troleo al usuario.
+   * Windows 98 y Bill Gates.
+   * WYSIWYG.
+   * Queen en Bohemian Rhapsody.
+   * Chicle Bazooka.
+   * Películas: Eliah Wood en ‘Regreso al futuro 2’.
+   * Películas: Juegos de Guerra (War Games).
+   * Niño al padre: ‘Impreso en 3D el icono de Salvar’.
+   * «Era el momento para meterte en las páginas ‘hot’».
+   * «Me compré un    y un pestillo para la puerta».
+   * Napster: Chat entre CKultur y el canadiense.
+   * Nukeando en el IRCap (Chema).
+   * Gross shading y Blast Processing.
 
 Audio original: https://www.ivoox.com/3363665
+
+<Falta descripción>
 ______
 
 RetroEntreAmigos 03x02 - Hired Guns (2014-09, 1h 39m 52.150s)
@@ -41,15 +57,15 @@ RetroEntreAmigos 03x02 - Hired Guns (2014-09, 1h 39m 52.150s)
 3. Audio-correo de Princemegahit y Tertulia: ¿cómo vivisteis la informática en vuestra escuela? (5m 11.484s -- 32m 43.883s, 27m 32.399s, https://www.ivoox.com/33877207)
 4. Audiocorreo de Chemamstrad: llegada a Alemania (32m 43.883s -- 40m 13.796s, 7m 29.913s, https://www.ivoox.com/33877228)
 5. Tertulia: manías raras al jugar (40m 13.796s -- 53m 42.349s, 13m 28.554s, https://www.ivoox.com/33877256)
-- Nuevo invitado: David Koyuki
-- Nicogalis: gran historia del Popeye y el Cebolla.
+   * Nuevo invitado: David Koyuki
+   * Nicogalis: gran historia del Popeye y el Cebolla.
 6. Telepromoción: Pongochip (53m 42.349s -- 57m 42.060s, 3m 59.711s, https://www.ivoox.com/33877275)
-- Presentación de JuanMa de Pongochip.
-- CKultur: visita a Pongochip.
+   * Presentación de JuanMa de Pongochip.
+   * CKultur: visita a Pongochip.
 7. Os traigo un juego: ‘Hired Guns’ para Amiga 500 por Nicogalis (57m 42.060s -- 1h 17m 1.224s, 19m 19.163s, https://www.ivoox.com/33877293)
-- Equipo: Dani Cebolla, Antonio Popeye, Dani er tecla y Nicogalis.
+   * Equipo: Dani Cebolla, Antonio Popeye, Dani er tecla y Nicogalis.
 8. Tertulia final (1h 17m 1.224s -- 1h 39m 52.150s, 22m 50.926s, https://www.ivoox.com/33877321)
-- ¿Qué te parecen los anuncios de la vuelta al cole?
+   * ¿Qué te parecen los anuncios de la vuelta al cole?
 
 Audio original: https://www.ivoox.com/3446120
 ______

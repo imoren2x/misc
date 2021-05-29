@@ -1,32 +1,31 @@
-Retro Entre Amigos: Os traigo un juego
+Retro Entre Amigos: Música
 ======
 
 Temporada 1
 ------
 
-
 |  N |   Mes   |          Título                 |  Autor       |   Plataforma    |  Año  | Vídeo         | Notas                  |
 |----|---------|---------------------------------|--------------|-----------------|-------|---------------|------------------------|
-|  1 | 2012-05 (01x00) | Kentilla Main Theme             | Rob Hubbard  | Commodore 64    | 1984  |               |                        |
-|  2 | 2012-05 | Shadow of the Beast              |   |     |   |               |                        |
-|  3 | 2012-05 | Space Quest                     |   |     |   |               |                        |
-|  4 | 2012-05 | Lotus trilogy                   |   |     |   |               |                        |
-|  5 | 2012-05 | Lotus I                         | Shaum Southern  |     |   |               |                        |
-|  6 | 2012-05 | Lotus II                        | Barry Leitch   |     |   |               |                        |
-|  7 | 2012-05 | Lotus III                       | Patrick Phelan  |     |   |               |                        |
-|  8 | 2012-05 | Savage                          |   |     |   |               |                        |
-|  9 | 2012-06 | Dark Fusion (Aufidersen Monty)  | Ben Daglish  |     |   |               |                        |
-| 10 | 2012-06 | HeroQuest                       | Barry Leitch  |     |   |               |                        |
-| 11 | 2012-06 | TwinBee by Konami ()            |   |     |   |               |                        |
-| 12 | 2012-06 | Yo! Joe! Beat the Ghosts! (Michael Biales)             |   |     |   |               |                        |
+|  1 | 2012-05 (01x00) | Kentilla Main Theme     | Rob Hubbard  | Commodore 64    | 1984  |               |                        |
+|  2 | 2012-05 | Shadow of the Beast             |              |                 |       |               |                        |
+|  3 | 2012-05 | Space Quest                     |              |                 |       |               |                        |
+|  4 | 2012-05 | Lotus trilogy                   |              |                 |       |               |                        |
+|  5 | 2012-05 | Lotus I                         | Shaum Southern |               |       |               |                        |
+|  6 | 2012-05 | Lotus II                        | Barry Leitch   |               |       |               |                        |
+|  7 | 2012-05 | Lotus III                       | Patrick Phelan |               |       |               |                        |
+|  8 | 2012-05 | Savage                          |              |                 |       |               |                        |
+|  9 | 2012-06 | Dark Fusion (Auf Wiedersehen Monty) | Ben Daglish |              |       |               |                        |
+| 10 | 2012-06 | HeroQuest                       | Barry Leitch |                 |       |               |                        |
+| 11 | 2012-06 | TwinBee by Konami ()            |              |                 |       |               |                        |
+| 12 | 2012-06 | Yo! Joe! Beat the Ghosts!       | Michael Biales |               |       |               |                        |
 | 13 | 2012-07 (01x02) | Frontier: Elite II              |   |     |   |               |                        |
 | 14 | 2012-07 | Knightmare (MSX) (Miki Higashiro)             |   |     |   |               |                        |
 | 15 | 2012-07 | Rampart (Spectrum) by GO! (Jos C. Brooke)             |   |     |   |               |                        |
 | 16 | 2012-07 | Jim Power in Mutant Power by Chris Hülsbeck             |   |     |   |               |                        |
 | 17 | 2012-08 (01x03) | Shadow Warrior 3                |   |     |   |               |                        |
 | 18 | 2012-10 (01x05) | The Last Ninja by Ben Daglish (C64) |   |     |   |               |                        |
-| 19 | 2012-10 | Ocean Loaders                  | Peter Clarke, Jonathan Dunn, Martin Galway |     |   |               |                        |
 | 20 | 2012-10 | Lindsey Stirling               |  |     |   |               |                        |
+| 19 | 2012-10 | Ocean Loaders                  | Peter Clarke, Jonathan Dunn, Martin Galway |     |   |               |                        |
 | 21 | 2012-11 | Dune               |  |     |   |               |                        |
 | 22 | 2013-02 | Utopia               |  |     |   |               |                        |
 | 23 | 2013-02 | Robocop               |  |     |   |               | Retromúsica Commodore |

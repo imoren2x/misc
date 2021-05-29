@@ -3,20 +3,20 @@ RetroEntreAmigos: temporada 2
 
 | Episodio |  Fecha  |    Duración    |             Título             |        Sección 2         |      Sección 3       |       Sección 4       |       Sección 5       |       Sección 6       |       Sección 7       | Sección 8 |
 |----------|---------|----------------|--------------------------------|--------------------------|----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------|
-| 02x01    | 2013-06 | 2h 38m 17.835s | Slogans                        | Post RetroMálaga'13      | McLeod               | Correos del Oyente    | Os traigo un juego: Alter Ego de MS-DOS BASIC | Slogans |             |           |
-| 02x02    | 2013-07 | 2h 21m 6.887s  | Efecto VHS                     | Entrevista: Micromaniac  | Cartas del Oyente    | McLeod                | Juego: Space Quest    | Efecto VHS            |                       |           |
-| 02x03    | 2013-08 | 2h 15m 50.883s | El paso de los 8 a 16 bits     | T: de 8 a 16 bits | Cartas del Oyente | Os traigo un juego: Kingʼs Valley 2 para MSX por Isaías McLeod | Los finales | Entrevista: Arcade Vintage | |
-| 02x04    | 2013-09 | 2h 7m 49.185s  | Amor y odio                    | Lo compré por tu culpa   | Amor y odio          | Os traigo un juego: Sonic CD | Tertulia: imagi | McLeod | Canción: Two-button love (Wahlström & Valiant) | |
-| 02x05    | 2013-10 | 2h 5m 51.843s  | Desarrolladores míticas        | O: ¿qué capitán serías?  | Desarrolladoras míticas | Juegos respetados que tú odias | McLeod | Juego: Clock Tower | Canción: Polybius (Houston & Carrie) | |
-| 02x06    | 2013-11 | 2h 31m 7.703s  | Moonstone                      | O:                       | El puto PC           | Moonstone             | McLeod                | Final                 |                       |           |
-| 02x07    | 2013-12 | 2h 15m 5.143s  | Scanlines                      | O: Villano de videojuego | Vicio del cartón | McLeod    | Juego: Inside Out     |  Final                |                       |           |
-| 02x08    | 2014-01 | 1h 42m 59.318s | Navidad                        | Mujer de la historia e historias de Navidad | Konami Vs. Konamito | SD Snatcher | Juegos de Navidad |                   |                       |           |
-| 02x09    | 2014-02 | 2h 19m 0.428s  | Cartuchos Flash                | Geoffrey Bennett, en qué mundo de videojuegos vivirías | El puto Mac | Cartuchos Flash | Juegos actuales | Shine Force  | McLeod                | Final     |
-| 02x10    | 2014-03 | 1h 45m 57.002s | Pre-RetroPixel                 | Qué momento histórico volverías a vivir | ALTAIR, desastres tecnológicos | Elite Frontier | Retro-decepción |           |                       |           |
+| 02x01    | 2013-06 | 2h 38m 17.835s | Slogans                        | Post RetroMálaga'13      | McLeod               | Correos del oyente    | J: Alter Ego          | Slogans               |                       |           |
+| 02x02    | 2013-07 | 2h 21m 6.887s  | Efecto VHS                     | Entrevista: Micromaniac  | O: Gabriel Moreno    | McLeod                | J: Space Quest        | Efecto VHS            | M: Crecí en los 80    |           |
+| 02x03    | 2013-08 | 2h 15m 50.883s | De los 8 a 16 bits             | T: de 8 a 16 bits        | O: Sergio Yo tenía   | J: Kingʼs Valley 2    | McLeod                | Los finales           | E: Arcade Vintage     | M: Treasure (Snabish) |
+| 02x04    | 2013-09 | 2h 7m 49.185s  | Amor y odio                    | Lo compré por tu culpa   | Amor y odio          | J: Sonic CD           | T: imaginación y vj   | McLeod                | M: Two-button love    |           |
+| 02x05    | 2013-10 | 2h 5m 51.843s  | Desarrolladores míticas        | O: ¿qué capitán serías?  | Desarrolladoras míticas | VJ respetados tú odias | McLeod | J: Clock Tower | M: Polybius     |                       |
+| 02x06    | 2013-11 | 2h 31m 7.703s  | El puto PC                     | O: vj odiados que te encantan | El puto PC      | J: Moonstone          | McLeod                | T Final: Anécdotas    | M: Rambo PPoT         |           |
+| 02x07    | 2013-12 | 2h 15m 5.143s  | Scanlines                      | O: Villano de videojuego | Vicio del cartón     | McLeod                | J: Inside Out         | T Final               | M: Zoids by R. Hubbard|           |
+| 02x08    | 2014-01 | 1h 42m 59.318s | Navidad                        | Mujer de la H/ H de Navidad | Konami Vs. Konamito | SD Snatcher         | Juegos de Navidad     |                       |                       |           |
+| 02x09    | 2014-02 | 2h 19m 0.428s  | Cartuchos Flash                | G. Bennett, mundo de vj vivirías | El puto Mac  | Cartuchos Flash       | Juegos actuales       | J: Shining Force II   | McLeod                | Final     |
+| 02x10    | 2014-03 | 1h 45m 57.002s | Pre-RetroMálaga                | Qué momento histórico volverías a vivir | ALTAIR, desastres tecnológicos | J: Frontier: Elite II | Retro-decepción |    |                       |           |
 | -        | 2014-04 |                | Especial RetroMálaga 2014      |                          |                      |                        |                      |                       |                       |           |
 | -        | 2014-05 |                |                                |                          |                      |                        |                      |                       |                       |           |
-| 02x11    | 2014-06 | 1h 46m 31.092s | Post-RetroPixel                | Qué power-up serías      | Juego: Wizard Warz   | McLeod                 | Cartuchos <br/> en el desierto   |           |                       |           |
-| 02x12    | 2014-07 | 2h 24m 6.113s  | RetroErotismo                  | Personaje te irías de copas | Tertulia: Retro-erotismo | Jugabilidad     | Juego: Head over Heels | McLeod              | Final                 |           |
+| 02x11    | 2014-06 | 1h 46m 31.092s | Post-RetroMálaga               | OQué power-up serías     | J: Wizard Warz       | McLeod                 | Cartuchos <br/> en el desierto   |           |                       |           |
+| 02x12    | 2014-07 | 2h 24m 6.113s  | RetroErotismo                  | Personaje te irías de copas | T: Retro-erotismo | Jugabilidad            | J: Head over Heels   | McLeod                | Final                 |           |
 
 ______
 
@@ -27,18 +27,19 @@ RetroEntreAmigos 02×01 – Slogans en los videojuegos (2013-06, 2h 38m 17.835s)
 2. Postámbulo RetroMálaga 2013 (5m 46.751s — 28m 4.038s, 22m 17.287s, https://www.ivoox.com/36365481)
 3. McLeod (28m 4.038s — 1h 3m 25.588s, 35m 21.550s, https://www.ivoox.com/36365782)
 4. Correo del oyente (1h 3m 25.588s — 1h 19m 20.091s, 15m 54.503s, https://www.ivoox.com/36365947)
+   * Miguel Ángel: ¿qué harías si lo perdieras todo?
 5. Os traigo un juego: Alter Ego (1h 19m 20.091s — 1h 39m 53.047s, 20m 32.956s, https://www.ivoox.com/36366631)
 6. Tertulia: ¿aprendiste alguna vez BASIC y para qué te sirvió? (1h 39m 53.047s — 2h 10m 29.537s, 30m 36.490s, https://www.ivoox.com/36368331)
 7. Tertulia y canción: los slogans en los videojuegos (2h 10m 29.537s — 2h 38m 17.835s, 27m 48.298s, https://www.ivoox.com/36369240)
 
     Música final: <br/>
-    - Canción: ‘Commodore 64 boy band song (Comic Bakery)’  
+    - Canción: ‘Commodore 64 boy band song (Comic Bakery)’
     - Autor: Press Play on Tape (PPoT)  
     - Plataforma: Commodore 64  
     - Año: 2002  
     - Vídeo YouTube: https://www.youtube.com/watch?v=5ZoLphdE7l8  
-    - Canción original: ‘Comic Bakery’ por Martin Galway
-    - Vídeo YouTube: https://www.youtube.com/watch?v=nf29ShkoAiA
+    - Canción original: ‘Comic Bakery’ por Martin Galway  
+    - Vídeo YouTube: https://www.youtube.com/watch?v=nf29ShkoAiA  
 
 Audio original: https://www.ivoox.com/2093210
 
@@ -63,10 +64,10 @@ RetroEntreAmigos 2×02 – Efecto VHS (2013-07, 2h 21m 6.887s)
 6. Tertulia: el efecto VHS y canción final (1h 49m 36.541s — 2h 21m 6.887s, 31m 30.346s, https://www.ivoox.com/33670773)
 
     Música final: <br/>
-    – Canción: ‘Crecí en los ochenta’
-    – Grupo: ‘El reno Renardo’
-    – Álbum: ‘El Reno Renardo y el Reino de la Cagalera de Bisbal’
-    – Año: 2008
+    – Canción: ‘Crecí en los ochenta’\
+    – Grupo: ‘El reno Renardo’\
+    – Álbum: ‘El Reno Renardo y el Reino de la Cagalera de Bisbal’\
+    – Año: 2008\
     – Vídeo YouTube: https://youtu.be/sTZMHhHMgAc
 
 URL original:
@@ -91,16 +92,16 @@ RetroEntreAmigos 02x03 - El paso de los 8 a 16 bits (2013-08, 2h 15m 50.883s)
 
 1. Intro, música y presentaciones (00h 00m 00.000s -- 4m 55.114s, https://www.ivoox.com/33670937)
 2. Tertulia: el paso de los ocho a dieciséis bits (4m 55.114s -- 31m 34.830s, 26m 39.716s, https://www.ivoox.com/33670963)
-3. Correo del oyente (31m 34.830s -- 35m 15.802s, 3m 40.972s, https://www.ivoox.com/33670972)
+3. Correo del oyente: Sergio de ‘Yo tenía un juego’ (31m 34.830s -- 35m 15.802s, 3m 40.972s, https://www.ivoox.com/33670972)
 4. Os traigo un juego: King's Valley 2 (35m 15.802s -- 51m 57.801s, 16m 41.999s, https://www.ivoox.com/33670979)
 5. McLeod Ideafix (51m 57.801s -- 1h 13m 32.314s, 21m 34.513s, https://www.ivoox.com/33670989)
 6. Tertulia: los finales (1h 13m 32.314s -- 1h 33m 1.984s, 19m 29.670s, https://www.ivoox.com/33671011)
 7. Tertulia: entrevista Arcade Vintage (1h 33m 1.984s -- 2h 15m 50.883s, 42m 48.899s, https://www.ivoox.com/33671020)
 
     Música: <br/>
-    - Canción: The treasure
-    - Autor: Víctor Navarro, alias ‘Snabisch’
-    - Website: https://audiojungle.net/user/snabisch
+    - Canción: The treasure\
+    - Autor: Víctor Navarro, alias ‘Snabisch’\
+    - Website: https://audiojungle.net/user/snabisch\
 
 URL original: https://www.ivoox.com/2255490
 
@@ -134,9 +135,9 @@ RetroEntreAmigos 02x04 - Amor y odio (2013-09, 2h 7m 49.185s)
 7. Final y canción (2h 2m 56.515s — 2h 7m 49.185s, 4m 52.670s, https://www.ivoox.com/36820248)
 
     Música: <br/>
-    - Título: ‘2 Button Love’
-    - Grupo: Wahlström & Valiant
-    - Año: 2009
+    - Título: ‘2 Button Love’\
+    - Grupo: Wahlström & Valiant\
+    - Año: 2009\
     - Vídeo YouTube: https://www.youtube.com/watch?v=-xmWa_u1ENs
 
 Audio original: https://www.ivoox.com/2322394
@@ -168,8 +169,8 @@ RetroEntreAmigos 02x05 - Desarrolladoras míticas (2013-10, 2h 5m 51.843s)
 6. El capitán Nincheto recomienda: Clock Tower; canción final (1h 47m 55.952s -- 2h 5m 51.843s, 17m 55.891s, https://www.ivoox.com/33695902)
 
     Música: <br/>
-    - Título: ‘Polybius’
-    - Autores: James Houston y Julian Corrie
+    - Título: ‘Polybius’\
+    - Autores: James Houston y Julian Corrie\
     - Vídeo YouTube: https://www.youtube.com/watch?v=Bzwm_2M7NX4
 
 Audio original: https://www.ivoox.com/2404235
@@ -199,23 +200,34 @@ RetroEntreAmigos 02x06 - Moonstone (2013-11, 2h 31m 7.703s)
 4. Tertulia: el puto PC (36m 13.388s -- 1h 13m 29.051s, 37m 15.663s, https://www.ivoox.com/33696118)
 5. Os traigo un juego: Moonstone (1h 13m 29.051s -- 1h 35m 2.449s, 21m 33.398s, https://www.ivoox.com/33696137)
 6. McLeod Ideafix (1h 35m 2.449s -- 1h 56m 50.197s, 21m 47.748s, https://www.ivoox.com/33696162)
-7. Tertulia y canción final: (1h 56m 50.197s -- 2h 31m 7.703s, 34m 17.506s, https://www.ivoox.com/33697245)
-
-    Música: <br/>
+7. Tertulia de Anécdotas y canción final: (1h 56m 50.197s -- 2h 31m 7.703s, 34m 17.506s, https://www.ivoox.com/33697245)
     - Anécdotas de compradores y vendedores en Internet
-    - Devoluciones fraudulentas
+    - Devoluciones fraudulentas\
     (Historia de CKultur sobre Mohahed Al-hadami)
     - Fotografías que ocultan defectos
-    Canción final:
-    — Título: Rambo
-    — Autor: Press Play on Tape (PPOT)
-    — Plataforma: Commodore 64
+
+    Canción final:\
+    — Título: Rambo\
+    — Autor: Press Play on Tape (PPOT)\
+    — Plataforma: Commodore 64\
     — Vídeo YouTube: https://www.youtube.com/watch?v=c9VsSAR_9hQ
 
 Audio original: https://www.ivoox.com/2507073
 
-<Falta la descripción>
+Volvemos este mes de Noviembre puntualmente a nuestra cita.
+Casi sin quererlo, nos encontramos con una temática casi-Hallowinesca (vaya palabro) ya que en nuestra sección “Misterios de 8 bits y menos”, de la mano de nuestro buen amigo McLeod_Ideafix tenemos nada mas y menos que una exposición sobre la relacione entre el ZX Spectrum y los extraterrestres. Estad atentos que las dos historias que se cuentan no solo son poco conocidas sino que realmente tienen su aquel.
 
+Por otro lado, tenemos retro tertulia desenfadada como siempre en la que tocaremos algunos temas como:
+
+* Juegos que todo el mundo odia… pero a ti te gustan (¿Alguien ha dicho E.T?)
+* El puto PC. (perdón por el taco, pero es que no es para menos). Esa máquina clónica sin mascota ni marca que se ha apoderado por la puerta de atrás de casi todos los rincones a base de reproducirse como chinches.
+* Historias y anécdotas de compradores y vendedores en Internet.
+
+Agradecemos tener también un audiocorreo de nuestro buen amigo Jose Zanni (Josezpin de RetroInvaders) en el que nos cuenta cual es y por qué su segundo sistema favorito.
+
+Por último, nuestro buen amigo Nicogalis, en la sección “Os traigo un juego”, nos hablará de esa maravilla que fue y que es “Moonstone” en el Commodore Amiga.
+
+Dos horas y media de risas, cachondeo e historietas pasadas que espero disfrutéis tanto oyendo como nosotros grabándolo.
 ______
 
 RetroEntreAmigos 02x07 - Vicio del cartón (2013-12, 2h 15m 5.143s)
@@ -228,34 +240,42 @@ RetroEntreAmigos 02x07 - Vicio del cartón (2013-12, 2h 15m 5.143s)
 4. McLeod Ideafix: scanlines (1h 01m 5.757s -- 1h 27m 18.491s, 26m 12.734s, https://www.ivoox.com/33735281)
 5. Os Traigo un juego: ‘Inside Outing’ para Amstrad por IMSAI (1h 27m 18.491s -- 1h 46m 32.012s, 19m 13.521s, https://www.ivoox.com/33735300)
 6. Tertulia ‘Soy un negado en...’ y canción final (1h 46m 32.012s -- 2h 15m 5.143s, 28m 33.131s, https://www.ivoox.com/33753239)
-    - Historia del gran jugador Paco Yuste con su Mega Drive.
+    - Historia del gran jugador Paco Yuste con su Mega Drive.\
+      Thunder Force 3, Ghouls and Ghosts.
 
     Canción: <br/>
-    - Título: Zoids
-    - Autor: Rob Hubbard
-    - Plataforma: Commodore 64 (chip SID)
-    - Vídeo YouTube: https://www.youtube.com/watch?v=9sr12hs1kzA
+    - Título: Zoids\
+    - Autor: Rob Hubbard\
+    - Plataforma: Commodore 64 (chip SID)\
+    - Vídeo YouTube: https://www.youtube.com/watch?v=9sr12hs1kzA \
     - Vídeo YouTube: https://www.youtube.com/watch?v=GEeV1aPWz14 (vista osciloscopio)
 
 Audio original: https://www.ivoox.com/2603857
 
-<Falta descripción>
+Llegando a tiempo a su manera, el programa Retro entre amigos número 7 esta aquí con mas de dos horas de nuevos y polémicos asuntos. En esta ocasión, trataremos algunos temas bastante espinosos como… ¿Somos los coleccionistas unos simples “chalaos” por las cajas? ¿Qué sucede cuanto te has terminado un juego… acaba o tiene vida después?
 
+En la sección “Misterios de 8 bit y menos” nuestro buen amigo McLeod_Ideafix nos explicará qué son las scanlines, por qué las echamos de menos y algunas maneras de traerlas de vuelta.
+
+Como primicia excepcional, nuestro compañero de fatigas Imsai nos va a traer como juego del mes en su sección “Os traigo un juego” un sorprendente juego de Amstrad llamado “Inside Outing”. ¡No os lo perdáis!
+
+Por último, intentad oir si o si uno de los bloques en los que creo que mas polémica se generan llamado “Me confieso, soy un negado en…”, donde nuestro alegres contertulios darán rienda suelta a sus experiencias y nos contarán secretos inconfesables… O no.
+
+Espero que os divierta y entretenga tanto o mas que a nosotros haciéndolo.
 ______
 
 RetroEntreAmigos 02x08 - Navidad (2014-01, 1h 42m 59.318s)
 ======
 
-01 Intro, música y presentaciones (00h 00m 00.000s -- 7m 0.908s, https://www.ivoox.com/33874488)
-02 Correos del oyente: ¿Qué mujer de la historia serías? (7m 0.908s -- 14m 02.850s, 7m 1.942s, https://www.ivoox.com/33874499)
-03 Tertulia: historias de Navidad (14m 02.850s -- 38m 46.872s, 24m 44.022s, https://www.ivoox.com/33874520)
-- CKultur: anécdota de comprar televisión en color
-- Audio correo de Navidad de Chemamstrad
-04 Tertulia: Konami Vs el resto (38m 46.872s -- 1h 12m 44.469s, 33m 57.597s, https://www.ivoox.com/33874650)
-05 Os traigo un juego: SD snatcher para MSX-2 por Isaías (1h 12m 44.469s -- 1h 29m 59.104s, 17m 14.635s, https://www.ivoox.com/33874726)
-06 Tertulia: juegos para jugar en Navidad (1h 29m 59.104s -- 1h 42m 59.318s, 13m 0.214s, https://www.ivoox.com/33874796)
-- Christmas night
-- Videojuego DonkeyMe, con colaboración de Locomalito y Gryzor87.
+1. Intro, música y presentaciones (00h 00m 00.000s -- 7m 0.908s, https://www.ivoox.com/33874488)
+2. Correos del oyente: ¿Qué mujer de la historia serías? (7m 0.908s -- 14m 02.850s, 7m 1.942s, https://www.ivoox.com/33874499)
+3. Tertulia: historias de Navidad (14m 02.850s -- 38m 46.872s, 24m 44.022s, https://www.ivoox.com/33874520)
+   * CKultur: anécdota de comprar televisión en color
+   * Audio correo de Navidad de Chemamstrad
+4. Tertulia: Konami Vs el resto (38m 46.872s -- 1h 12m 44.469s, 33m 57.597s, https://www.ivoox.com/33874650)
+5. Os traigo un juego: SD snatcher para MSX-2 por Isaías (1h 12m 44.469s -- 1h 29m 59.104s, 17m 14.635s, https://www.ivoox.com/33874726)
+6. Tertulia: juegos para jugar en Navidad (1h 29m 59.104s -- 1h 42m 59.318s, 13m 0.214s, https://www.ivoox.com/33874796)
+  - Christmas night
+  - Videojuego DonkeyMe, con colaboración de Locomalito y Gryzor87.
 
 Audio original: https://www.ivoox.com/2682375
 
@@ -275,7 +295,7 @@ RetroEntreAmigos 02x09 - Cartuchos Everdrive (2014-02, 2h 19m 0.428s)
  - Felicitación a Robcfg por su hijo.
  - Sergio de YoTeníaUnJuego.com: concurso ‘YoTeníaUnJuego’.
  - ¿Jugáis a juegos actuales?
-6. Os traigo un juego: Shining Force 2 para Mega Drive por Chemamstrad (1h 28m 43.337s -- 1h 47m 4.404s, 18m 21.67s, https://www.ivoox.com/33875119)
+6. Os traigo un juego: Shining Force II para Mega Drive por Chemamstrad (1h 28m 43.337s -- 1h 47m 4.404s, 18m 21.67s, https://www.ivoox.com/33875119)
 7. McLeod Ideafix (1h 47m 4.404s -- 2h 7m 47.066s, 20m 42.662s, https://www.ivoox.com/33875145)
 8. Final y canción (2h 7m 47.066s -- 2h 19m 0.428s, 11m 13.362s, https://www.ivoox.com/33875159)
  - Espetero: plantilla para cartuchos sin caja
@@ -303,9 +323,9 @@ RetroEntreAmigos 02x10 - Pre-RetroPixel (2014-03, 1h 45m 57.002s)
 8. Tertulia final: la Retro-decepción y canción final (1h 11m 00.397s -- 1h 45m 57.002s, 34m 56.605s, https://www.ivoox.com/33876050)
 
     Canción final: <br/>
-    - Título: Delta
-    - Autor: Rob Hubbard
-    - Plataforma: Commodore 64
+    - Título: Delta\
+    - Autor: Rob Hubbard\
+    - Plataforma: Commodore 64\
     - Vídeo YouTube: https://www.youtube.com/watch?v=jOpIbm_XX-k (vista osciloscopio)
 
 Audio original: https://www.ivoox.com/2877936
@@ -345,10 +365,10 @@ RetroEntreAmigos 02x11 - Post-RetroPixel (2014-06, 1h 46m 31.092s)
 6. Tertulia: Cartuchos encontrados en el desierto y canción final (1h 21m 55.068s -- 1h 46m 31.092s, 24m 36.24s, https://www.ivoox.com/33876726)
 
     Canción final: <br/>
-    - Título: Wizard Warz
-    - Autor: Ben Daglish
-    - Plataforma: Atari ST (NO la de ZX Spectrum)
-    - Año: 1987
+    - Título: Wizard Warz\
+    - Autor: Ben Daglish\
+    - Plataforma: Atari ST (NO la de ZX Spectrum)\
+    - Año: 1987\
     - Vídeo YouTube: https://www.youtube.com/watch?v=t-q9GBQ1I5Q
 
 Audio original: https://www.ivoox.com/3176716
@@ -370,16 +390,16 @@ RetroEntreAmigos 02x12 - RetroErotismo (2014-07, 2h 24m 6.113s)
     Canciones finales: <br/>
 
     Canción primera: <br/>
-    - Título: Wizard Warz
-    - Autor: Ben Daglish
-    - Plataforma: ZX Spectrum
-    - Año: 1987
+    - Título: Wizard Warz\
+    - Autor: Ben Daglish\
+    - Plataforma: ZX Spectrum\
+    - Año: 1987\
     - Vídeo YouTube: https://www.youtube.com/watch?v=t-q9GBQ1I5Q
 
-    Canción segunda: <br/>
-    - Título: Force Feedback
-    - Autor: Machinae Supremacy
-    - Año: 2010
+    Canción segunda: <br/>\
+    - Título: Force Feedback\
+    - Autor: Machinae Supremacy\
+    - Año: 2010\
     - Vídeo YouTube: https://www.youtube.com/watch?v=6mPQVvd28WI
 
 Audio original: https://www.ivoox.com/3281224
