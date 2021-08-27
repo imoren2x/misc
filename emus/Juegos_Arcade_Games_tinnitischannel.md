@@ -1,7 +1,7 @@
 The golden age of Arcade Games by tinnitischannel
 ======
 
-URL: https://www.youtube.com/watch?v=n7aDh3hxXTY
+URL: https://www.youtube.com/watch?v=TDBLokIOLcs
 
 
 | No  | Year | Title                        | Company               | Category | Notes     |
