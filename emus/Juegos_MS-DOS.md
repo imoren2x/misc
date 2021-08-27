@@ -74,7 +74,7 @@ Juegos MS-DOS
 | Crazy machines | - |
 | War times: European Frontline | - |
 | Bladerunner | - |
-| 3D Duke Nukem | - |
+| Duke Nukem 3D | - |
 | Ubik | - |
 | Sombras de Guerra | - |
 | Commandos | - |
@@ -93,6 +93,7 @@ Juegos MS-DOS
 | Pirate | - |
 | Realm of Chaos | - |
 | Phantasmagoria | - |
+| Lemmings | - |
 | Lemmings 3D | - |
 | Police Quest Open Season | - |
 | The Gene Machine | - |
@@ -109,45 +110,22 @@ Juegos MS-DOS
 | Starcraft | - |
 | Colonization | - |
 | 3 Gobblins | - |
-
-Alone in the dark
-Blood
-Budokan
-Civilization
-Colonization
-Command & Conquer
-Full Throttle
-Duke Nukem 3D
-Doom
-Day of the tentacle
-Gabriel Knight
-Goblins
-Indiana Jones & the fate of Atlantis
-Loom
-Lemmings
-Leisure Suit Larry
-Another World
-Panzer General
-Populous
-Quake
-Simcity
-Rise of the Triad
-Red Baron
-Syndicate
-Tycoon
-Theme Park
-Theme...
-The Settlers
-Monkey Island
-The Incredible Machine
-UFO: enemy unknown
-Warcraft
-Carmen Sandiego
-Wolfstein
-King's Quest
-Back to the future
-
-
+| Speed Demons | - |
+| Blood 
+| Doom | - |
+| Gabriel Knight | - |
+| Loom | - |
+| Another World | - |
+| Panzer General | - |
+| Populous | - |
+| Quake | - |
+| Rise of the Triad | - |
+| Red Baron | - |
+| Tycoon | - |
+| Theme Park | - |
+| Theme... | - |
+| Wolfstein | - |
+| Back to the future | - |
 
 * [Xataka - Los 39 mejores juegos MS-DOS](https://www.xataka.com/videojuegos/los-28-mejores-juegos-de-la-epoca-ms-dos-para-jugar-ahora-y-gratis-en-el-navegador)
 * [Archive.org - Ms-DOS Tetris 1986](https://www.archive.org/details/msdos_Tetris_1986)
