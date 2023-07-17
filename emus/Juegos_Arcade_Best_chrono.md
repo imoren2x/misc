@@ -7,30 +7,30 @@ Juegos Arcade Favorites
 |     | Donkey Kong                             | 1981 |                | Nintendo              |                       |                       |
 |     | Defender                                | 1981 |                | Williams Electronics  |                       |                       |
 |     | Frogger                                 | 1981 |                | Konami                |                       |                       |
-|     | Tempest                                 | 1981 |                |                       |                       |                       |
-|     | Galaga                                  | 1981 |                |                       |                       |                       |
-|     | Scramble                                | 1981 |                |                       |                       |                       |
+|     | Tempest                                 | 1981 |                | Atari                 |                       |                       |
+|     | Galaga                                  | 1981 |                | Namco                 |                       |                       |
+|     | Scramble                                | 1981 |                | Konami                |                       |                       |
 |     | Qix                                     | 1981 |                | Taito                 |                       |                       |
 |     | Ms. Pac-Man                             | 1981 |                | Namco                 |                       |                       |
-|     | Stargate                                | 1981 |                |                       |                       |                       |
-|     | Bosconian                               | 1981 |                |                       |                       |                       |
-|     | Vanguard                                | 1981 |                |                       |                       |                       |
-|     | New Rally X                             | 1981 |                |                       |                       |                       |
-|     | Amidar                                  | 1981 |                |                       |                       |                       |
+|     | Stargate                                | 1981 |                | Williams Electronics  |                       |                       |
+|     | Bosconian                               | 1981 |                | Namco                 |                       |                       |
+|     | Vanguard                                | 1981 |                | TOSE                  |                       |                       |
+|     | New Rally X                             | 1981 |                | Namco                 |                       |                       |
+|     | Amidar                                  | 1981 |                | Konami                |                       |                       |
 |     |                                         |      |                |                       |                       |                       |
-|     | Dig Dug                                 | 1982 |                |                       |                       |                       |
-|     | Burgertime                              | 1982 |                |                       |                       |                       |
-|     | Joust                                   | 1982 |                |                       |                       |                       |
-|     | Q\*bert                                 | 1982 |                |                       |                       |                       |
-|     | Pole Position, Namco                    | 1982 |                |                       |                       |                       |
-|     | Robotron 2084                           | 1982 |                |                       |                       |                       |
-|     | Choplifter                              | 1982 |                |                       |                       |                       |
-|     | Tron                                    | 1982 |                |                       |                       |                       |
-|     | Pego                                    | 1982 |                |                       |                       |                       |
-|     | Popeye                                  | 1982 |                |                       |                       |                       |
-|     | Pooyan                                  | 1982 |                |                       |                       |                       |
+|     | Dig Dug                                 | 1982 |                | Namco                 |                       |                       |
+|     | Burgertime                              | 1982 |                | Data East             |                       |                       |
+|     | Joust                                   | 1982 |                | Williams Electronics  |                       |                       |
+|     | Q\*bert                                 | 1982 |                | Gottlieb              |                       |                       |
+|     | Pole Position                           | 1982 |                | Namco                 |                       |                       |
+|     | Robotron 2084                           | 1982 |                | Vid Kidz              |                       |                       |
+|     | Choplifter                              | 1982 |                | Dan Gorlin            |                       |                       |
+|     | Tron                                    | 1982 |                | Bally Midway          |                       |                       |
+|     | Pengo                                   | 1982 |                | Coreland              |                       |                       |
+|     | Popeye                                  | 1982 |                | Nintendo              |                       |                       |
+|     | Pooyan                                  | 1982 |                | Konami                |                       |                       |
 |     |                                         |      |                |                       |                       |                       |
-|     | Dragon’s Lair                           | 1983 |                |                       |                       |                       |
+|     | Dragon’s Lair                           | 1983 |                | Advanced Microcomputer Systems |                       |                       |
 |     | Elevator Action                         | 1983 |                |                       |                       |                       |
 |     | Spy Hunter                              | 1983 |                |                       |                       |                       |
 |     | Bomberman                               | 1983 |                |                       |                       |                       |

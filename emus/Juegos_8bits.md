@@ -61,6 +61,7 @@ Edad de oro del Soft
 |     | Spirits                                 | 198x |                | Topo Soft             |                       |                       |
 |     | Titanic                                 | 198x |                | Topo Soft             |                       |                       |
 |     | Viaje al centro de la Tierra            | 198x |                | Topo Soft             |                       |                       |
+|     | Temptations                             | 198x |                | Topo Soft             |                       |                       |
 
 * [Web DeVuego: Topo Soft](https://www.devuego.es/bd/festudio/topo-soft)
 
