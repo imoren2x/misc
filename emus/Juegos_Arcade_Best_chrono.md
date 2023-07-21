@@ -31,17 +31,17 @@ Juegos Arcade Favorites
 |     | Pooyan                                  | 1982 |                | Konami                |                       |                       |
 |     |                                         |      |                |                       |                       |                       |
 |     | Dragon’s Lair                           | 1983 |                | Advanced Microcomputer Systems |                       |                       |
-|     | Elevator Action                         | 1983 |                |                       |                       |                       |
-|     | Spy Hunter                              | 1983 |                |                       |                       |                       |
-|     | Bomberman                               | 1983 |                |                       |                       |                       |
-|     | Punch-Out!!                             | 1983 |                |                       |                       |                       |
-|     | Congo Bongo                             | 1983 |                |                       |                       |                       |
-|     | Chuckie Egg                             | 1983 |                |                       |                       |                       |
-|     | Mr. Do’s Castle                         | 1983 |                |                       |                       |                       |
+|     | Elevator Action                         | 1983 |                | Taito                 |                       |                       |
+|     | Spy Hunter                              | 1983 |                | Midway                |                       |                       |
+|     | Bomberman                               | 1983 |                | Hudson Soft           |                       |                       |
+|     | Punch-Out!!                             | 1983 |                | Nintendo              |                       |                       |
+|     | Congo Bongo                             | 1983 |                | Sega                  |                       |                       |
+|     | Chuckie Egg                             | 1983 |                | A&F Software          |                       |                       |
+|     | Mr. Do’s Castle                         | 1983 |                | Universal             |                       |                       |
 |     |                                         |      |                |                       |                       |                       |
-|     | Kung-Fu Master                          | 1984 |                |                       |                       |                       |
-|     | 1942, Capcom                            | 1984 |                |                       |                       |                       |
-|     | Karateka                                | 1984 |                |                       |                       |                       |
+|     | Kung-Fu Master                          | 1984 |                | Irem                  |                       |                       |
+|     | 1942                                    | 1984 |                | Capcom                |                       |                       |
+|     | Karateka                                | 1984 |                | Jordan Mechner        |                       |                       |
 |     | Tetris                                  | 1984 |                |                       |                       |                       |
 |     | King’s Quest                            | 1984 |                |                       |                       |                       |
 |     | Elite                                   | 1984 |                |                       |                       |                       |
@@ -51,7 +51,7 @@ Juegos Arcade Favorites
 |     | Bomb Jack                               | 1984 |                |                       |                       |                       |
 |     | Road Fighter                            | 1984 |                |                       |                       |                       |
 |     |                                         |      |                |                       |                       |                       |
-|     | Gauntlet                                | 1985 |                |                       |                       |                       |
+|     | Gauntlet                                | 1985 |                | Atari                 |                       |                       |
 |     | Ghosts ’n Goblins                       | 1985 |                | Capcom                |                       |                       |
 |     | Gradius                                 | 1985 |                | Konami                |                       |                       |
 |     | Commando                                | 1985 |                |                       |                       |                       |
